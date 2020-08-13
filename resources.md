@@ -27,8 +27,18 @@ Table of contents:
 
 ## Services at Pitt
 <dl>
-<dt><a href="http://lynda.pitt.edu">Lynda Online Learning</a></dt>
-<dd>This is a portal for high-quality, often in-depth, video and screencast tutorials for a wide variety of digital tools: from audio, image, and video editing, to web design, to photography and graphic design, to programming languages. Your tuition dollars give you access while you're at Pitt; might as well take advantage while you can!</dd>
+<dt><a href="https://my.pitt.edu/task/all/cssd-linkedinlearning">LinkedIn Learning tutorials</a></dt>
+<dd>
+<p>This is a portal for high-quality, often in-depth, video and screencast tutorials for a wide variety of digital tools: from audio, image, and video editing, to web design, to photography and graphic design, to programming languages. Your tuition dollars give you access while you're at Pitt; might as well take advantage while you can!</p>
+<p>You'll need to <strong>log in first through my.pitt</strong>, click the Start button to access the video library, and then search within that or come back here for a direct link. <figure class="float-right"><img src="assets/img/linked-in-learning-start-button.png" alt="The start button follows the 'LinkedIn Learning' header and a heart button to 'Add Favorite'." /></figure> Otherwise, it'll try to get you to sign up or log in through LinkedIn, which is probably not what you meant to do.</p>
+<p>I particularly recommend the following starting points:
+<ul>
+  <li><strong><a href="https://www.linkedin.com/learning/learning-audacity-2/jump-into-the-world-of-audio-editing">Learning Audacity</a></strong>: overall a short and sweet introduction that still highlights the reasons for certain features. If two hours isn't your idea of short and sweet, you can focus in on <a href="https://www.linkedin.com/learning/learning-audacity-2/selecting-and-zooming">Selecting and Zooming</a>, <a href="https://www.linkedin.com/learning/learning-audacity-2/add-tracks">Add Tracks</a>, and the whole <a href="https://www.linkedin.com/learning/learning-audacity-2/make-selections">Basic Editing</a> section.</li>
+  <li><strong><a href="https://www.linkedin.com/learning/gimp-essential-training-4/edit-your-images-for-free-with-gimp">GIMP Essential Training</a></strong>: a longer course, with over five hours of content, because GIMP is quite powerful and that power involves a lot of complexity. Must-know sections include a <a href="https://www.linkedin.com/learning/gimp-essential-training-4/tour-the-gimp-interface">tour of the GIMP interface</a>; an <a href="https://www.linkedin.com/learning/gimp-essential-training-4/explore-gimp-tools">overview of the toolbox</a>, so you know which tool sections you might want to watch and which you can skip for now; and the whole section on <a href="https://www.linkedin.com/learning/gimp-essential-training-4/understanding-layers">Understanding Layers</a>.</li>
+</ul>
+</p>
+</dd>
+
 <dt><a href="http://dmap.pitt.edu/">DMAP site</a></dt>
 <dd>The English department maintains a Digital Media And Pedagogy site with a number of useful resources, including <a href="http://dmap.pitt.edu/equipment">recording equipment</a> you can check out, easy-to-reserve office hours with either a grad student or faculty digital media consultant (see the sidebar), and a way to reserve the DMAP studio (CL 463) for up to eight people.</dd>
 
@@ -239,7 +249,7 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <dd>This is a browser plugin, available for Chrome, Firefox, and Opera, that allows you to test your web pages by manipulating them in various ways – by temporarily turning off JavaScript, for example, or replacing all images with their alt text. (I've found the latter tool particularly useful.) It also includes html and css validators, to help you find typos that are throwing off your code.</dd>
 
 <dt><a href="https://caniuse.com">caniuse.com</a></dt>
-<dd>CSS is a live language, and the ongoing development of new CSS capabilities means that some browsers are slower to adopt the most current standards than others. To confirm that a particular rule will work across browsers, you can check here: just enter the CSS attribute you wish to set in the big "Can I use ______?" search box at the top of the page.</dd>
+<dd>CSS is a living language, and the ongoing development of new CSS capabilities means that some browsers are slower to adopt the most current standards than others. To confirm that a particular rule will work across browsers, you can check here: just enter the CSS attribute you wish to set in the big "Can I use ______?" search box at the top of the page.</dd>
 </dl>
 
 <!-- Add section on text editors? i.e atom.io, brackets.io, etc?-->
