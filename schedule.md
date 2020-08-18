@@ -84,7 +84,7 @@ For next time:
 * **Begin** recording the sounds you'll need
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-06">Lesson 6, Tuesday 9/8</a> – Sound studio
+<h3><a href="{{site.github_url}}/plans/lesson-06">Lesson 6, Tuesday 9/8</a> – Sound studio</h3>
 
 For next time:
 * **Work** toward your soundscape narrative
@@ -307,5 +307,3 @@ For next time:
 For next time:
 * Finish consolidation project by Sunday, if you haven't yet
 * Work to complete your final portfolio (due in our final exam slot, t.b.d.)
-
-<!--
