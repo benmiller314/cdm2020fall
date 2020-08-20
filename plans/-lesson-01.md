@@ -11,6 +11,12 @@
 * (at start of class) survey about other coursework, tech comforts and discomforts, etc
 * (at end of class) letter to Ben about your habits, expectations, and goals as a composer of digital media
 
+<div class="alert alert-info">
+<p>Even before we start, I invite you to take a minute and adjust the way your name displays in Zoom. Pitt requires that this default to <em>LastName,FirstName</em>, so we have to change it every time. But I want you to know that you can call me Ben, and that I use he/him pronouns. How would you like us to address you?</p>
+<p>To make a change, just click the three dots that appear when you hover over your own face. (Note that you can also Hide Self View if you find that distracting.)</p>
+</div>
+
+
 ## 1. Introduction to the course and to each other
 <div class="alert alert-success">
 I'd like to know more about you! Head on over to <a href="http://bit.ly/cdm2019survey">bit.ly/cdm2019survey</a> and fill in the first page or two. (I'll give you time to work on the rest later, so please leave the tab open for now.)
@@ -22,15 +28,21 @@ When you've done that (or after about 5 minutes), please:
 2. Write down at least one digital tool, or app, or website, that more people should know about.
 3. When you've finished both of these tasks, use the "raise hand" button on Zoom to let me know you're ready to move to the next step. You'll find it on the "Participants" window.
 
+<details><summary>Not sure where to find the Participants window? Click here to expand instructions.</summary>
 <figure>
+First, look on the bottom of your screen: Participants is probably near the green Share Screen button.
+
 <img src="../assets/img/zoom--functions-bar-participants-2--bilkent-edu-tr.png" alt="main Zoom menu, with buttons for Invite, Participants, Share Screen, Chat, Record, and Reactions" />
+
+That'll bring up a list of everyone in the call, either in a new window (if Zoom is fullscreen) or to the right of everyone's faces; the Raise Hand button should be at the bottom left of that new window.
 <img src="../assets/img/zoom--student-part-screen--bilkent-edu-tr.png" alt="Zoom Participants window, in which Raise Hand is the first option" />
 <figcaption>Images from <a href="http://web4.bilkent.edu.tr/zoom/using-zoom/being-a-participant/raising-your-hand">Bilkent University Zoom Tutorials</a>; fair use.</figcaption>
 </figure>
 EXT: If you've done all that and you're waiting, pick one item on each list to write more about. Why these?
+</details>
 
 <details>
-  <summary>Wait for it</summary>
+  <summary>And when you're all ready...</summary>
 
   <em>Yup, it's introduction time!</em> Let's share these around the Zoom, as a way of meeting and greeting each other – and picking up some digital suggestions along the way. (Later, I'll ask you to post your recommendations as part of your first contribution to our class discussion forum.) Just one item from each list should do the trick.
 </details>
@@ -71,8 +83,7 @@ But first, an important consideration: <em>what web handle do you want to use fo
 
 * **For next time**:
  1. **Read** the [full syllabus]({{site.github_url}}/uploads), which you should have received by email. (If you lost it, you can download a copy on the Uploads page of this site.) Then **go into Canvas and complete the [Grading Contract module](https://canvas.pitt.edu/courses/49432/modules#module_242531).** There's a forum at the end where you can sign on to this grading format, ask questions about it, or even propose changes. (If we change it, though, it'll be by *collective* bargaining.)
- 2. **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm).
-    - *NB: This requires Flash to view, and therefore will not work in Google Chrome – and will probably require your explicit permission to open in Firefox or Safari.* It's published on a reputable academic journal. I believe it's safe or I wouldn't assign it. *After you've finished the Flash version, skim the pdf version.*
+ 2. **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). *NB: This requires Flash to view, and therefore will not work in Google Chrome – and will probably require your explicit permission to open in Firefox or Safari.* It's published on a reputable academic journal. I believe it's safe or I wouldn't assign it. *After you've finished the Flash version, skim the pdf version.*
  3. **Watch** Michael Wesch's short video-essay, [“Information R/evolution”](http://www.youtube.com/watch?v=-4CV05HyAbM)
  4. **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2019survey) if you haven't done so in class
  5. **Join** [GitHub](https://github.com/) if you haven't yet, and
