@@ -1,8 +1,4 @@
 
-
-
-
-
 # Introductions
 **Texts to have read:** the course description
 
@@ -15,6 +11,9 @@
 <p>Even before we start, I invite you to take a minute and adjust the way your name displays in Zoom. Pitt requires that this default to <em>LastName,FirstName</em>, so we have to change it every time. But I want you to know that you can call me Ben, and that I use he/him pronouns. How would you like us to address you?</p>
 <p>To make a change, just click the three dots that appear when you hover over your own face. (Note that you can also Hide Self View if you find that distracting.)</p>
 </div>
+
+<p>And while we're talking Zoom, you probably noticed that this is being recorded, and it'll show up on the Panopto tab in Canvas later today: that's primarily for the benefit of folks working asynchronously, but I hope it's also helpful even for people who are here, to be able to come back and review when you want to. To make this a safe choice, I ask that you (1) please don't share the videos beyond our class community; and (2) please let me know (e.g. by private chat) if you want to pause the recording for a candid off-the-record discussion. Some things will automatically <strong>not</strong> be part of the Panopto recording: breakout groups, which we'll use a lot; the group chat; and the faces of anyone who's not speaking or who's turned their cameras off.</p>
+
 
 
 ## 1. Introduction to the course and to each other
@@ -38,8 +37,11 @@ That'll bring up a list of everyone in the call, either in a new window (if Zoom
 <img src="../assets/img/zoom--student-part-screen--bilkent-edu-tr.png" alt="Zoom Participants window, in which Raise Hand is the first option" />
 <figcaption>Images from <a href="http://web4.bilkent.edu.tr/zoom/using-zoom/being-a-participant/raising-your-hand">Bilkent University Zoom Tutorials</a>; fair use.</figcaption>
 </figure>
-EXT: If you've done all that and you're waiting, pick one item on each list to write more about. Why these?
 </details>
+
+EXT: If you've done all that and you're waiting, pick one item on each list to write more about. Why these?
+
+<div class="alert alert-info">NB: I'll often use that EXT notation to signal an "extension activity," i.e. something you can do if you finish before the rest of the class, or if you just want to dig a little deeper. (There is always more to do.)</div>
 
 <details>
   <summary>And when you're all ready...</summary>
@@ -78,7 +80,7 @@ But first, an important consideration: <em>what web handle do you want to use fo
 
 # Homework
 
-* **Before you leave**, please:
+* **Before you leave**, or by next class if you're participating asynchronously, please:
  -  submit the survey and letter, if you haven't yet
 
 * **For next time**:
@@ -87,4 +89,4 @@ But first, an important consideration: <em>what web handle do you want to use fo
  3. **Watch** Michael Wesch's short video-essay, [“Information R/evolution”](http://www.youtube.com/watch?v=-4CV05HyAbM)
  4. **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2019survey) if you haven't done so in class
  5. **Join** [GitHub](https://github.com/) if you haven't yet, and
- 6. **Post** a brief introduction to yourself on the <a href="{{site.github.issues_url}}/1">issue queue</a>. Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should have received a copy of your post at whichever email address you used on the form. And please do include a link to that digital tool / app / website you wrote down at the start of class!
+ 6. **Post** a brief introduction to yourself on the <a href="{{site.github.issues_url}}/1">issue queue</a>. Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should have received a copy of your post at whichever email address you used on the form. And if you'd like, please do include a link to that digital tool / app / website you wrote down at the start of class!
