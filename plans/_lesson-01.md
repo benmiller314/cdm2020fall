@@ -18,17 +18,21 @@ I'd like to know more about you! Head on over to <a href="http://bit.ly/cdm2019s
 
 When you've done that (or after about 5 minutes), please:
 
-1. Take out a piece of paper and fold it in thirds. In the middle, **write your name** in letters large enough to see across the room. Add your preferred pronouns, too, please.
-2. On the top, make a short list of sounds that you associate with being "at home" (whatever that means to you today).
-3. On the bottom, jot down at least one digital tool, or app, or website, that more people should know about.
-4. Set up your name on your desk when you're done, so I can (try to) see (around these monitors) when we're all ready.
+1. Make a short list of sounds that you associate with being "at home" (whatever that means to you today). Alternately: instead list sounds you associate with being "at school."
+2. Write down at least one digital tool, or app, or website, that more people should know about.
+3. When you've finished both of these tasks, use the "raise hand" button on Zoom to let me know you're ready to move to the next step. You'll find it on the "Participants" window.
 
+<figure>
+<img src="../assets/img/zoom--functions-bar-participants-2--bilkent-edu-tr.png" alt="main Zoom menu, with buttons for Invite, Participants, Share Screen, Chat, Record, and Reactions" />
+<img src="../assets/img/zoom--student-part-screen--bilkent-edu-tr.png" alt="Zoom Participants window, in which Raise Hand is the first option" />
+<figcaption>Images from <a href="http://web4.bilkent.edu.tr/zoom/using-zoom/being-a-participant/raising-your-hand">Bilkent University Zoom Tutorials</a>; fair use.</figcaption>
+</figure>
 EXT: If you've done all that and you're waiting, pick one item on each list to write more about. Why these?
 
 <details>
   <summary>Wait for it</summary>
 
-  <em>Yup, it's introduction time!</em> Let's share these around the room, as a way of meeting and greeting each other – and picking up some digital suggestions along the way. (Later, I'll ask you to post your recommendations as part of your first contribution to our class discussion forum.) Just one item from each list should do the trick.
+  <em>Yup, it's introduction time!</em> Let's share these around the Zoom, as a way of meeting and greeting each other – and picking up some digital suggestions along the way. (Later, I'll ask you to post your recommendations as part of your first contribution to our class discussion forum.) Just one item from each list should do the trick.
 </details>
 
 ## 2. A letter from Ben
@@ -55,20 +59,21 @@ Don’t feel that you have to answer every single one of these questions, and es
 ## 4. Homework preview
 One of the tasks for homework will be to post a brief introduction to yourself on our course discussion forum. We'll be using GitHub Issues for this purpose; I'll <a href="{{site.github.issues_url}}/1">demo quickly</a>, in case you haven't seen this before.
 
-<div class="alert alert-info">
-An important consideration: <em>what web handle do you want to use for yourself in this course?</em> Will it be the same one you generally use for social media? Will you use your real name, or something more anonymous? There are pros and cons with each choice.
+<div class="alert alert-warning">
+But first, an important consideration: <em>what web handle do you want to use for yourself in this course?</em> Will it be the same one you generally use for social media? Will you use your real name, or something more anonymous? There are pros and cons with each choice.
 </div>
 
 
 # Homework
 
 * **Before you leave**, please:
- -  submit the info form and letter, if you haven't yet
+ -  submit the survey and letter, if you haven't yet
 
 * **For next time**:
- 1. **Read** the [full syllabus and grading contract]({{site.github_url}}/uploads), which you can download on the Uploads page of the site. Either initial-and-sign the contract (print or email is fine), or come back with suggested changes. (But bear in mind that all bargaining over the contract must be collective – we have to achieve consensus on any revisions.)
- 2. **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). *NB: This requires Flash to view, and therefore will not work in Google Chrome – and will probably require your explicit permission to open in Firefox or Safari.* It's published on a reputable academic journal. I believe it's safe or I wouldn't assign it. *After you've finished the Flash version, skim the pdf version.*
+ 1. **Read** the [full syllabus]({{site.github_url}}/uploads), which you should have received by email. (If you lost it, you can download a copy on the Uploads page of this site.) Then **go into Canvas and complete the [Grading Contract module](https://canvas.pitt.edu/courses/49432/modules#module_242531).** There's a forum at the end where you can sign on to this grading format, ask questions about it, or even propose changes. (If we change it, though, it'll be by *collective* bargaining.)
+ 2. **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm).
+    - *NB: This requires Flash to view, and therefore will not work in Google Chrome – and will probably require your explicit permission to open in Firefox or Safari.* It's published on a reputable academic journal. I believe it's safe or I wouldn't assign it. *After you've finished the Flash version, skim the pdf version.*
  3. **Watch** Michael Wesch's short video-essay, [“Information R/evolution”](http://www.youtube.com/watch?v=-4CV05HyAbM)
  4. **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2019survey) if you haven't done so in class
  5. **Join** [GitHub](https://github.com/) if you haven't yet, and
- 6. **Post** a brief introduction to yourself on the <a href="{{site.github.issues_url}}/1">issue queue</a>. Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should have received a copy of your post at whichever email address you used on the form. And please do include a link to that digital tool / app / website you recommended at the start of class!
+ 6. **Post** a brief introduction to yourself on the <a href="{{site.github.issues_url}}/1">issue queue</a>. Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should have received a copy of your post at whichever email address you used on the form. And please do include a link to that digital tool / app / website you wrote down at the start of class!
