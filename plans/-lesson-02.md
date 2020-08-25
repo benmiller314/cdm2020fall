@@ -17,26 +17,24 @@
 
 ## Plan for the Day
 
-1. Contract questions?
-2. Five Principles, in Brief (15 min)
-3. GitHub and Git <!-- repo, commit, history, diff --> (15 min)
-4. Five Principles as Lenses (15 min)
+1. The Newness of New Media: Five Principles, in Brief (15 min)
+2. GitHub and Git <!-- repo, commit, history, diff --> (15 min)
+3. Five Principles as Lenses (15 min)
 
+Welcome back!
 
-### 1. Contract questions?
-Anyone have any questions about the grading contract, or changes to propose?
+### 1. Five Principles, in Brief
 
-### 2. Five Principles, in Brief
-We have a couple of new students, and also Margaret, our TA. Welcome!
-
-Can I get five people to fill them in on the five "principles of new media" from the article I asked you to read? i.e. One person, one term.
+Can I get five people to fill us in on the five "principles of new media" from the webtext I asked you to read? i.e. One person, one term.
 
 <!-- numerical representation, modularity, automation, variability,
 and transcoding -->
 
+
+
 <!-- If you had to look them up, would you rather use the webtext or the pdf? Why? -->
 
-### 3. GitHub, part 2
+### 2. GitHub, part 2
 Last time, we saw that GitHub can host a discussion forum, so in that sense it's a community website: it makes media social.
 
 But its core functionality is meant to solve a different media problem:
@@ -49,7 +47,7 @@ But its core functionality is meant to solve a different media problem:
 
 
 <div class="alert alert-success">
-Let's quickly walk through what it looks like:
+Let's quickly walk through what it looks like via the Web Interface:
 <strong><a href="https://github.com/benmiller314/text-demo#readme">https://github.com/benmiller314/text-demo</a></strong>
 </div>
 
@@ -64,18 +62,18 @@ Let's quickly walk through what it looks like:
    This will become important in a minute.
 -->
 
-### 4. Five Principles as Lenses
+### 3. Five Principles as Lenses
 
 Time to take these abstractions and put them into practice, in two ways:
 
 * practice using GitHub
 * practice using our key terms to help us see differently
 
-We'll be working in groups. Can I get about five volunteers who are feeling good about GitHub to anchor those teams for today?
+We'll be working in groups. I've used your [Tech Comfort Survey](http://bit.ly/cdm2019survey) responses to build breakout rooms where at least one person has prior GitHub experience, so I hope you'll be able to help each other where needed!
 
 <div class="alert alert-success">
 Head to
-<strong><a href="https://github.com/benmiller314/digital-affordances-2020spring#readme">https://github.com/benmiller314/digital-affordances-2020spring</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, anchors!)
+<strong><a href="https://github.com/benmiller314/cdm-digital-affordances#readme">https://github.com/benmiller314/cdm-digital-affordances</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, anchors!)
 
 Then follow the instructions in the README file.
 </div>
@@ -85,10 +83,11 @@ We'll work in Breakout Rooms for 10-15 minutes, then report back. Call me if you
 ## HW for next time:
 
 * **Watch** Git and GitHub for Poets, starting at least with
-[the Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) and going as far as your interest and time allow. <!-- FOR NEXT TIME: add [1.5 intro to the command line](https://youtu.be/oK8EvVeVltE) and recommend [1.6 clone, push, pull](https://youtu.be/yXT1ElMEkW8), though it's a little long-winded -->
+[the Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) and going as far as your interest and time allow.
+  - I also especially recommend [1.5 / intro to the command line](https://youtu.be/oK8EvVeVltE) and [1.6 / clone, push, pull](https://youtu.be/yXT1ElMEkW8), though the latter gets a little long-winded... But then, that's what 1.5x playback is for, am I right?
 * **Practice** following the steps in the video, using either a .txt file or a .md file: create a repository on GitHub, add some content to a file, commit, edit it, commit again, and view the history. Next class we can start with any questions that came up for you in the process.
    - If you've used GitHub a lot, you may want to play around with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) formatting. Do you know what happens if you embed html inside a Markdown file? Or Markdown inside an html block?
-   * **Download** any software you'll need [to use Git at the command line](https://gist.github.com/derhuerst/1b15ff4652a867391f03), possibly including Homebrew (on Mac) and GitBash (on Windows)
-     - If you're feeling intimidated by the command line but want to give it a go, try out this [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
-   * *Optional but highly recommended:* Also **download** the [GitHub Desktop application](https://desktop.github.com), available for MacOS or Windows. <!-- FOR NEXT TIME: ALSO HAVE THEM DOWNLOAD ATOM, so they can do the local text editing required in lesson 3! -->
+* I highly recommend you **download** the [GitHub Desktop application](https://desktop.github.com), available for MacOS or Windows, which (like the command line interface) has some essential features that are unavailable on the GitHub website.
+* Definitely be sure to **download** a plain text editor: I recommend [Atom](http://atom.io), but if you already use Notepad++ or SublimeText or something like that, you're fine.
+* *Optional, but encouraged:* **install** command-line git, probably using either GitBash (for Windows) or Homebrew (for Mac) – or see this [walkthrough of how to install git using GitHub Desktop](https://www.techrepublic.com/article/how-to-install-github-desktop/#:~:text=That's%20right%2C%20even%20though%20GitHub,install%20Git%20(Figure%20B). (Linux users, I assume you don't need further instructions.)
 * *Optional:* Want a more hands-on guide through the full GitHub functionality? See the GitHub Learning Lab entry on our [Resources page]({{site.github_url}}/resources).
