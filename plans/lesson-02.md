@@ -17,9 +17,11 @@
 
 ## Plan for the Day
 
-1. The Newness of New Media: Five Principles, in Brief (15 min)
-2. GitHub and Git <!-- repo, commit, history, diff --> (15 min)
-3. Five Principles as Lenses (15 min)
+1. The Newness of New Media: Five Principles, in Brief (~15 min)
+2. GitHub and Git <!-- repo, commit, history, diff --> (~15 min)
+3. Five Principles as Lenses (~15 min)
+4. Shareback (~15 min)
+5. HW Preview
 
 Welcome back!
 
@@ -30,7 +32,7 @@ Can I get five people to fill us in on the five "principles of new media" from t
 <!-- numerical representation, modularity, automation, variability,
 and transcoding -->
 
-
+Let's take notes here: [http://bit.ly/cdm2020fall-notes](bit.ly/cdm2020fall-notes)
 
 <!-- If you had to look them up, would you rather use the webtext or the pdf? Why? -->
 
@@ -78,7 +80,9 @@ Head to
 Then follow the instructions in the README file.
 </div>
 
-We'll work in Breakout Rooms for 10-15 minutes, then report back. Call me if you need me! Otherwise, I'll be floating from group to group.
+We'll work in Breakout Rooms for 10-15 minutes, then report back. Don't forget that you can use Zoom chat and screenshare to your advantage.
+
+Call me if you need me! Otherwise, I'll be floating from group to group.
 
 ## HW for next time:
 
