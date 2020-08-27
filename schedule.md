@@ -123,6 +123,7 @@ For next time:
 
 
 <h2 id="unit-3">Unit III: Visual Rhetorics and Argument</h2>
+
 *In this unit, you will make a claim through the juxtaposition of images and text. As with the sound project, the context for your argument is open: you could be making a social commentary, calling for action, constructing a parody, riffing on a pun, explaining a concept, and so on. Whatever you choose, you should consider your audience and what they would find persuasive or interesting, and how you therefore wish to attract and direct their attention.*
 
 <h3><a href="{{site.github_url}}/plans/lesson-10">Lesson 10, Tuesday 9/22</a> – Can You Picture It? Visual Rhetorics and Argument</h3>
