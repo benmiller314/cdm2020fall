@@ -15,7 +15,7 @@
 
 1. Sound and space (10 min)
 2. Audacity Demo (10 min)
-3. Audacity Play Time (25-35 min)
+3. Audacity Play Time (25-35 min) <!-- we got here at ~3:19: 30 minutes in. Audacity crashes and Ben flubs w/ label track -->
 4. Share and Enjoy (10ish min)
 5. HW Preview (5 min)
 <!-- 6. Offline sketching (10 min) -- Move to lesson-05 for 2020fall -->

@@ -214,7 +214,7 @@ Alternately, if you've downloaded [GitHub Desktop](https://desktop.github.com), 
 
 # HW for next time:
 * **Download** the [Audacity](https://www.audacityteam.org/download/) audio editor, or update to the latest version if you already have it.
-   - *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html)
+   - *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html)<!-- NB: On Zoom, it might be helpful to have an additional audio input/output device like Soundflower or whatever the Windows equivalent is-->
 * **Bring** headphones – we should have time to practice using it!
 
 * **Listen** to the following recordings made by students in response to a similar prompt:
