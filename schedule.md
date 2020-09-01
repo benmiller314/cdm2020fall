@@ -67,9 +67,9 @@ For next time:
 
 For next time:
 
-* **Read** *Writer/Designer* excerpt (scanned file)
-* **Read** Stanford’s Fair Use overview _(optional)_;
+* **Read and listen** to the audio recording advice (Fowkes and MacAdam) if you haven't yet
 * **Skim** the audio resources on the site, and read more deeply in anything that seems like it would help you.
+* **Listen and record** your local soundscape
 * **Bring** headphones so you can work in class
 <!-- Ben HW: bring in sounds to practice with -->
 
@@ -79,8 +79,7 @@ For next time:
 
 For next time:
 
-* **Fork** the assignment repository on GitHub if you haven't yet
-* **Listen** to the audio recording advice (Fowkes and MacAdam) if you haven't yet
+* **Read** the excerpt from *Writer/Designer* on assets and fair use, if you haven't yet, plus (optionally) Stanford’s Fair Use overview
 * **Write** a proposal for your sound narrative, including a prospective asset list (as per *W/D*); post to <a href="{{site.github.issues_url}}">the Issues page</a>.
 * **Begin** recording the sounds you'll need
 
