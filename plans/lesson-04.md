@@ -90,6 +90,10 @@ Your turn! Play around with the impact of different musical selections and align
 
 (NB: we can have some fun with reordering the words, but please don't push those to GitHub: we don't need any more fake news circulating!)
 
+I'll open up the breakout rooms, so you can consult with each other in parallel. Call me if you need me! Otherwise, I'll float.
+
+<div class="alert alert-caution">If your computer can't handle both Zoom and Audacity, it's okay (not ideal, but okay) to drop out of the call for a few minutes while you're working. But do <strong>set a timer</strong>, so you can check back in after about 20 minutes.</div>
+
 
 ## 4. Share and Enjoy (10+ min)
 
