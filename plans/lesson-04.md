@@ -99,18 +99,19 @@ Let's hear a few! Anybody have a clip they're excited to share?
 
 
 # HW for next time:
+
+* As predicted last class, I'm asking you to **read** the following advice on sound recording, **listening to the embedded clips**:
+  - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).
+  - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” *NPR Training*, 30 Oct. 2015, [https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/). (**Note the time skips she recommends**: sometimes a long clip is embedded, but not meant to be listened to in full.)
+* After thinking about the advice, **take a listening tour around your local soundscape**, inside or outside or some combination. (Bring your mask where appropriate.) Take a mental note of what you hear: What are the _continuous_ sounds in this space? Are they distinctive, or fairly generic? What are the _incidental_ sounds that contrast with the background ambiance?
+* Try making a few recordings of your surroundings. (The [resources page](https://benmiller314.github.io/cdm2020fall/resources#audio) has a link to recommended smartphone apps for occasional recording.) Listen back. Do they sound like you expected? Why or why not?
+
+## Looking forward:
 <div class="alert alert-success">
 The main writing assignment for the week is to <strong>post a proposal for your soundscape narrative by next Tuesday</strong>, including a preliminary chart of sound assets you might want to include.
 </div>
 
-We'll have some in-class generative time on Thursday, but for now, here's a little reading, related to that (and to fair use / permissive licensing):
-
 * The term "asset" comes from a reading assignment from the book _Writer/Designer_ (Ball, Sheppard, and Arola, eds). A scan of the relevant chapter is <a title="not posted to preserve the limited distribution that helps justify my fair use claim (as does my colorless copy and the limited amount copied, relative to the book)" href="https://pitt.box.com/s/xovvpta4x2tq1cs9ywr61d2g1udka8m5
-">posted to Box</a>; **please read it before writing your proposal.**
-   - _Optionally_, you can read through a [short four-page webcomic](https://wiki.creativecommons.org/wiki/Howitworks_Comic1) explaining how Creative Commons (CC) licenses get attached to copyrightable materials, and how easily CC materials can be included and/or remixed in further creations... with, at a minimum, attribution. The subject is covered in _Writer/Designer_, but the comic is cute.
-   - _Optionally_, you can also **read** the Stanford Overview of Fair Use, which you can find in a series of four webpages beginning at [fairuse.stanford.edu/overview/fair-use/](https://fairuse.stanford.edu/overview/fair-use/). This text, despite being called an overview, is really a more in-depth understanding of fair use than the brief introduction in _Writer/Designer_.
-
-* As predicted last class, I'm also asking you to **read** the following advice on sound recording, **listening to the embedded clips**:
-  - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).
-  - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” *NPR Training*, 30 Oct. 2015, [https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/). (**Note the time skips she recommends**: sometimes a long clip is embedded, but not meant to be listened to in full.)
-  - If you run out of time for one or both of these, I'll also re-post the links with Thursday's homework. But the sooner the better, in terms of planning your sound-gathering strategies.
+">posted to Box</a>; **please read it before writing your proposal.** If you don't have time now, it's fine to do it over the weekend.
+   - _Optionally_, you can also read through a [short four-page webcomic](https://wiki.creativecommons.org/wiki/Howitworks_Comic1) explaining how Creative Commons (CC) licenses get attached to copyrightable materials, and how easily CC materials can be included and/or remixed in further creations... with, at a minimum, attribution. The subject is covered in _Writer/Designer_, but the comic is cute.
+   - _Even more optionally_, you can **read** the Stanford Overview of Fair Use, which you can find in a series of four webpages beginning at [fairuse.stanford.edu/overview/fair-use/](https://fairuse.stanford.edu/overview/fair-use/). This text, despite being called an overview, is really a more in-depth understanding of fair use than the brief introduction in _Writer/Designer_. If Ball et al. struck a chord with you, here's where to read on!
