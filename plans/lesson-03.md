@@ -232,6 +232,6 @@ Alternately, if you've downloaded [GitHub Desktop](https://desktop.github.com), 
 
 <hr/>
 
-* _Optional:_ This will be part of the homework for the weekend, but if you want to get a head start, **read** the following advice on sound recording, **listening to the embedded clips**:
+* _Optional:_ This will be part of the homework next week, but if you want to get a head start, **read** the following advice on sound recording, **listening to the embedded clips**:
   - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).
   - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” *NPR Training*, 30 Oct. 2015, [https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/). (**Note the time skips she recommends**: sometimes a long clip is embedded, but not meant to be listened to in full.)

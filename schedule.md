@@ -80,6 +80,7 @@ For next time:
 For next time:
 
 * **Fork** the assignment repository on GitHub if you haven't yet
+* **Listen** to the audio recording advice (Fowkes and MacAdam) if you haven't yet
 * **Write** a proposal for your sound narrative, including a prospective asset list (as per *W/D*); post to <a href="{{site.github.issues_url}}">the Issues page</a>.
 * **Begin** recording the sounds you'll need
 
