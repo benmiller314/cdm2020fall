@@ -63,7 +63,7 @@ For next time:
 
 <h2 id="unit-2">Unit II: Soundscapes and Soundwriting</h2>
 
-<h3><a href="{{site.github_url}}/plans/lesson-04">Lesson 4, Tuesday 9/1</a> – Sound, Space, and Audacity<!-- discuss posts. demo tracks, split, join. Do soundwalk at end iff time allows. (It won't.) :\ --></h3>
+<h3><a href="{{site.github_url}}/plans/lesson-04">Lesson 4, Tuesday 9/1</a> – Audacity; Sound On, Sound Off<!-- discuss posts. demo tracks, split, join. Do soundwalk at end iff time allows. (It won't.) :\ --></h3>
 
 For next time:
 
@@ -73,7 +73,7 @@ For next time:
 * **Bring** headphones so you can work in class
 <!-- Ben HW: bring in sounds to practice with -->
 
-<h3><a href="{{site.github_url}}/plans/lesson-05">Lesson 5, Thursday 9/3</a> – Sound Ethics, Sound Studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-05">Lesson 5, Thursday 9/3</a> – Sound, Space, Generative Writing</h3>
 <!-- instead of representative and reprehensible sampling, what if we practice looping? For async folks, recommend this talking timer: https://chrome.google.com/webstore/detail/talking-timer-custom-spea/cbbmoeglgokhkbnnfpoeciheapicdphm?hl=en
 -->
 
@@ -84,7 +84,7 @@ For next time:
 * **Begin** recording the sounds you'll need
 
 
-<h3><a href="{{site.github_url}}/plans/lesson-06">Lesson 6, Tuesday 9/8</a> – Sound studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-06">Lesson 6, Tuesday 9/8</a> – Sound Ethics, Sound Studio</h3>
 
 For next time:
 * **Work** toward your soundscape narrative
