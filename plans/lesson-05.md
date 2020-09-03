@@ -25,7 +25,7 @@ Ask if you can't come to a resolution!
 * What's one way to make sure you're recording the sound you want to (and not, say, the loud bus passing by your conversation)? <!-- listen through headphones while you record -->
 * What do both Fowkes and MacAdam consider tempting cliches, and how do they get past them?
 * Would you want to incorporate human voices in your sound projects for this course? Why or why not?
-* Would you (each of you, specifically, for this project) want to work from a written script? Why or why not?
+* When might you want to work from a written script, and why (or why not)? (Note that, prepared script or no, a written transcript alongside audio is considered a best practice for accessibility.)
 
 EXT: Already discussed those questions? While you're waiting for other groups, move on to the questions in the next section.
 
