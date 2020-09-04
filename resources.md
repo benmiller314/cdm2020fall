@@ -160,6 +160,10 @@ Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets lis
 <dt><a href="https://theaudacitytopodcast.com/tap040-10-tips-for-how-to-keep-audacity-from-crashing/">10 Tips for How to Keep Audacity from Crashing</a></dt>
 <dd>The title says it all. I haven't had problems, but if you start to, have a look here.</dd>
 
+<dt>Advice on field recording, in terms of technique and storytelling</dt>
+<dd>These are part of an assigned homework, but for convenience I'll relist them here: Alison MacAdam's “[6 NPR Stories That Breathe Life into Neighborhood Scenes](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/)” suggests multiple approaches for rich contextualization in a purely sonic medium. (Note the time skips MacAdam recommends: sometimes a long clip is embedded, but not meant to be listened to in full.) Stuart Fowkes's “[The Top 5 Things You Need to Make a Great Field Recording](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/)” has advice for what to focus on (and a little bit of what to avoid) as you're recording – and as you're editing. Also check out his more [nuts-and-bolts advice on lessons learned](https://citiesandmemory.com/2014/03/ten-top-simple-field-recording-tips/), sometimes the hard way, for recording sound in the field.
+</dd>
+
 <dt><a href="https://thewirecutter.com/reviews/the-best-voice-recorder/#the-best-smartphone-apps-for-occasional-recording">Recommended smartphone recording apps</a></dt>
 <dd>The New York Times's <em>Wirecutter</em> review site has a relatively recent roundup of free and nearly free apps for iPhone and Android. Save yourself some time trying to find the app with the least intrusive ads, and start with something pre-vetted and user-tested.</dd>
 
