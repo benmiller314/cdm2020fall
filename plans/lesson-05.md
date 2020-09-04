@@ -57,6 +57,11 @@ I'd like to spend some in-class time using writing – some listing and looping�
 
 If we have more time left in class, get started writing up your proposal – or testing the feasibility of what you want to propose, e.g. by searching for sounds you think you'll need, or starting Audacity tutorials.
 
+<!-- FOR NEXT TIME:
+Please go to our shared notes doc, [bit.ly/cdm2020fall-notes](http://bit.ly/cdm2020fall-notes) to set your working goals for today. When we're done, you can come back to the doc and update with your progress / goals for your next working session.
+-->
+
+
 Call me if you need me!
 
 # Homework for next time:
