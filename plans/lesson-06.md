@@ -71,7 +71,7 @@ To help with goal-setting and reflection (and, again, so I can figure out where 
 
 # Homework for next time:
 <ul>
-<li><strong>Work</strong> on your soundscape narratives, including making at least two recordings and putting them into conversation in Audacity. If you have time, do more!</li>
+<li><strong>Work</strong> on your soundscape narratives, including importing at least two assets into Audacity and putting them in conversation with each other. If you have time, do more!</li>
 <li><strong>Push a soundscape preview</strong> to your GitHub repository. As per the assignment prompt, this should include:
   <ul>
   <li> A layered <strong>Audacity project file (.aup)</strong>, showing the arrangement of your sounds so far (need not be a complete soundscape or narrative yet).</li>
