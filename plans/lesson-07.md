@@ -36,14 +36,23 @@ That is, <strong>I really want you to see these aspirational goals as opportunit
 ### 3b. Comment and Discuss in the Doc (10 min)
 Read through the other groups' notes, adding collegial comments in the margins to upvote or propose modifications. As you see consensus forming, propose an official version for our list of shared criteria. If debates emerge, maybe we can use mutually exclusive aspirational goals!
 
+<div class="alert alert-warning">
+ALT: If you're joining us asynchronously, please also leave comments, especially with questions or suggestions. You will be held to these criteria, so make your voice heard!
+</div>
+
 ## 4. Studio While I Synthesize (25 min)
 
 I'll work solo to write up a list that reflects your consensus in the comments, while you all work solo (with groupmates on-hand for questions or other feedback) on your projects and any needed tutorials.
 
 Like last time, please set yourself some [studio goals in the doc](http://bit.ly/cdm2020fall-notes#heading=h.vuve9r68ee71); set a timer for 20 minutes; and then write a brief exit note on what you were able to achieve / what your next steps are.
 
+<div class="alert alert-warning">
+NB: If you're joining us asynchronously, please do add your goals and reflections to the doc whenever you're able to "do" today's lesson.
+</div>
+
+
 ## 5. Confirming criteria (8-10 min)
-Please head back up to the [criteria in the doc](http://bit.ly/cdm2020fall-notes#heading=h.4z2fc4kqrdln). Before we head into the weekend, I'd like to confirm that we're on the same page.
+Please head back up to the [criteria in the doc](http://bit.ly/cdm2020fall-notes#heading=h.4z2fc4kqrdln). Before we head into the weekend, I'd like to confirm that we're on the same page. (At least pending any new input from async participants.)
 
 
 ## For next time:
