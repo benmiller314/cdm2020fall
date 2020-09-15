@@ -40,7 +40,7 @@ To make this process easier, you should probably indicate in your README.md file
 ## 2. Evaluation reminder: our criteria (5 min)
 We set up [a few shared goals and constraints](http://bit.ly/cdm2020fall-notes#heading=h.wke68rgfiqrs) that meet the baseline requirements. Let's try to help everyone get at least to there!
 
-<section id="sound-criteria">
+
 <strong>Baseline criteria</strong>
 For a minimum grade of B, all projects for this unit <em>must</em>:
 <ul><li>Contain at least one sound originally recorded by you; duration is flexible, depending on your soundscape and narrative.</li>
@@ -67,7 +67,7 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 <li>If using human voices, have more than one character interact</li>
 <li>If not using human voices, have one sound respond to / interact with another (e.g. pouring sound + spoon stirring sound = coffee; pouring sound + crunching sound = cereal)</li>
 <li>Practice careful editing through well-aligned transitions and loops, cuts at zero crossings, etc</li>
-</section>
+    </ul>
 
 Any surprises there, before we move on?
 
