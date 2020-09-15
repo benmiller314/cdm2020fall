@@ -21,10 +21,10 @@ In your own space – you won't have to share this unless you want to – do a 
 ## 2. Refresher on soundscapes we've liked (5 min)
 Shift now in your writing to think about the [blog posts on listening to soundscapes]({{site.github.issues_url}}/4) – or, if you haven't read through them in a while, look at them quickly now with an eye toward _what people are praising_ in the sound pieces: **what seems to make a soundscape narrative work well? Jot down some notes.**
 
-## 3. Gathering criteria (20-25 min)
+## 3. Gathering criteria (20-25 min) <!-- Actually took more like 45! -->
 Primed now by that writing and thinking, I'm going to ask you to get in groups and brainstorm in pursuit of baseline and aspirational criteria for this unit.
 
-### 3a. Crowdsource ideas (10 min) <!-- start at ~2:53 -->
+### 3a. Crowdsource ideas (10 min) <!-- Actually took more like 25! -->
 To bring all our notes together while allowing for real-time collaboration, **use this google doc: [bit.ly/cdm2020fall-notes](http://bit.ly/cdm2020fall-notes#heading=h.4z2fc4kqrdln).**
 
 <div class="alert alert-success">
@@ -33,7 +33,7 @@ Take 10 minutes in groups to make some lists: given the <a href="https://github.
 That is, <strong>I really want you to see these aspirational goals as opportunities to stretch yourselves and your skills, not just to do more of the same.</strong> Think about what would be new and potentially exciting, but not required for everyone.
 </div>
 
-### 3b. Comment and Discuss in the Doc (10 min)
+### 3b. Comment and Discuss in the Doc (10 min) <!-- actually took more like 20! -->
 Read through the other groups' notes, adding collegial comments in the margins to upvote or propose modifications. As you see consensus forming, propose an official version for our list of shared criteria. If debates emerge, maybe we can use mutually exclusive aspirational goals!
 
 <div class="alert alert-warning">
