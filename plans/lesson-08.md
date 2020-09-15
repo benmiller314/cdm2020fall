@@ -101,12 +101,15 @@ Let's do this!
 
 Within each group, **you're responsible for commenting on the three people listed after your name**; if that takes you to the end, wrap around again. _(e.g. Alexa will review soundscape narratives for Ben S., Henry, and Jacob; Ben S. will review for Henry, Jacob, and Alexa; Henry will review for Jacob, Alexa, and Ben S.; and so on.)_
 
+I think it might be best to start by cloning and listening to one repo at a time.
+
 Groups:
 
-* [Alexa](https://github.com/AlexaSpaventa/soundscape2020fall), [Ben Schatz](https://github.com/bschatz17/soundscape2020fall), [Henry](https://github.com/heh44/soundscape2020fall), [Jacob](https://github.com/JTH74/soundscape2020fall)
-* [Brian](https://github.com/briansostek/soundscape2020fall), [Carly](https://github.com/carlystanford/soundscape2020fall), [Kyle O'Malley](https://github.com/jkomalley/soundscape2020fall), [Christianna](https://github.com/csk32/soundscape2020fall)
-* [Hunter](https://github.com/hjo6/soundscape2020fall), [Lucas](https://github.com/LDib/soundscape2020fall), [Lydon](https://github.com/LLP37/soundscape2020fall)
-* [Nicholas](https://github.com/peekssezin/soundscape2020fall), [Shreya](https://github.com/shreyababu/soundscape2020fall), [Trinity](https://github.com/trinitymccool/soundscape2020fall), [Maia](https://github.com/Maials268/soundscape2020fall)
+* [Alexa](https://github.com/AlexaSpaventa/soundscape2020fall), [Ben Schatz](https://github.com/bschatz17/soundscape2020fall), [Henry](https://github.com/heh44/soundscape2020fall), [Jacob](https://github.com/JTH74/soundscape2020fall),
+[Hunter](https://github.com/hjo6/soundscape2020fall)*
+* [Brian](https://github.com/briansostek/soundscape2020fall), [Carly](https://github.com/carlystanford/soundscape2020fall), [Kyle O'Malley](https://github.com/jkomalley/soundscape2020fall), [Christianna](https://github.com/csk32/soundscape2020fall), [Lucas](https://github.com/LDib/soundscape2020fall)*
+* *[Hunter](https://github.com/hjo6/soundscape2020fall), [Lucas](https://github.com/LDib/soundscape2020fall), and  [Lydon](https://github.com/LLP37/soundscape2020fall) were in a separate group for the first rotation
+* [Nicholas](https://github.com/peekssezin/soundscape2020fall), [Shreya](https://github.com/shreyababu/soundscape2020fall), [Trinity](https://github.com/trinitymccool/soundscape2020fall), [Maia](https://github.com/Maials268/soundscape2020fall), [Lydon](https://github.com/LLP37/soundscape2020fall)*
 * (async group): [Leia](https://github.com/leiawerner/soundscape2020fall), [Kyle Maxwell](https://github.com/KyleMaxwell1224/soundscape2020fall), [Kevin](https://github.com/kevdliedel/soundscape2020fall), [Jagr](https://github.com/jeepy33/soundscape2020fall)
 
 <div class="alert alert-warning">
