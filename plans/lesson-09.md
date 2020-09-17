@@ -53,6 +53,12 @@ A few seeds of ideas I want to plant, having listened through as much as I could
 </details>
 
 <details>
+<summary><em>Consider compression</em></summary>
+<p>Silence – and sameness – all sound a lot longer in playback than they do when you're recording them. Two seconds of nothing could be considered a Grand Pause. Feel free to elide some moments in time. If you're worried about signaling how long something takes, consider fading in and fading out a background track to make it clear that we're not in real time. Nothing says you get more points the longer your piece is!
+</p>
+</details>
+
+<details>
 <summary><em>Consider how you'll signal it's over.</em></summary>
 <p>Endings are tricky. In an essay, I'd say they usually depend on beginnings: completing some thought you'd left open, or answering a question. In stories, there's often an epiphany (new insight) or a denouement, a return to a previous situation but with the characters' perspectives on it now changed. You can try those things with soundscapes, too, but there are added elements: if you have music, you can make sure to "resolve" back into the root chord, or to complete a rhythmic sequence; if you have an ongoing event, you can fade out; if you have a surprise or joke ending, you can signal intentionality by muting the backgrounds to draw attention to the one track that remains. If you haven't used music, you might fade in a soundtrack at the end, especially as a lead-in to credits (think of podcasts' outro music).</p>
 
@@ -108,7 +114,7 @@ You can find me in the main room, or call me in to your breakout room if you hav
 * Your repository (on GitHub or in a Box folder shared to me) should include:
    - Your most up-to-date layered Audacity project file (`.aup`)
    - The `_data` folder associated with that Audacity project. I cannot open your Audacity file without this!
-      * If getting the `_data` folder into your repo is still giving you trouble, please let me know: I can help. 
+      * If getting the `_data` folder into your repo is still giving you trouble, please let me know: I can help.
    - A series, now, of screenshots showing your Audacity project in progress. (Think about what moments are worth remembering as you go: where did you level up, or realize something, or get stuck?)
    - An updated ASSETS.md (or CREDITS.md) file reflecting what you actually used, including documentation of any outside sources and your permission to use them (e.g. explicit licenses like CC, or fair use)
    - An updated README.md file introducing your soundscape narrative to a new audience. Give your piece a title! Make it something to live beyond this assignment, if you can. :¬)
