@@ -102,6 +102,8 @@ When you get the signal to take a break, unmute within your breakout group, and 
 
 You can find me in the main room, or call me in to your breakout room if you have a question in common: just use the "Ask for Help" button (<img src="https://assets.zoom.us/images/en-us/desktop/generic/in-meeting/ask-for-help-icon.png" alt="ask for help button, which shows a question mark in a circle" class="d-inline-block" />) in your meeting menu.
 
+<div class="alert alert-warning"><p>ALT: To get credit for participating asynchronously, please also head into the google doc, whenever your working session falls, and add your goals for the day. Set some timers (in class we did two times 20+5 minutes), and at the end, go back to the doc and reflect / set new goals at the end.</p><p>If you need a pomodoro timer, there are tons of free apps out there: I like browser plugins that prevent me from opening tempting sites during the working countdown.</p></div>
+
 
 <div style="height:100px; height:10vh;">
 <!-- This div left intentionally blank, for spacing -->
