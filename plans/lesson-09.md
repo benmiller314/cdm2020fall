@@ -23,13 +23,16 @@ To make this more feasible over Zoom, I'm going to open up the breakout rooms, a
 
 <details open>
 <summary>Why this process?</summary>
-This process, a modification of the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique), has been very helpful to me in my own writing. Pomodoros ("poms" for short) are generally useful for developing a sense of how long things take, and can help some people focus for longer periods of time, by breaking that time down into more manageable increments. In the original method, you’d spend 25 minutes working and spend the 5 minutes stretching, taking a bathroom break, and generally resetting, so if you need that, please take it. But I’ve also found that spending the 5 minutes with other people who were also just working also helps me develop a sense of accountability and makes me want to do better work, to be worth their time.
+<div class="alert alert-white">
+<p>This process, a modification of the <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">pomodoro technique</a>, has been very helpful to me in my own writing. Pomodoros ("poms" for short) are generally useful for developing a sense of how long things take, and can help some people focus for longer periods of time, by breaking that time down into more manageable increments. </p>
+
+<p>In the original method, you’d spend 25 minutes working and spend the 5 minutes stretching, taking a bathroom break, and generally resetting, so if you need that, please take it. But I’ve also found that spending the 5 minutes with other people who were also just working also helps me develop a sense of accountability and makes me want to do better work, to be worth their time.</p></div>
 </details>
 
 
 A few seeds of ideas I want to plant, having listened through as much as I could:
 
-<!-- NEW IN 2020:
+<!-- NEW or updated IN 2020:
 * endings
 * noise reduction
 * consider voiceover – or re-recording muffled voices currently in background tracks
@@ -39,18 +42,14 @@ A few seeds of ideas I want to plant, having listened through as much as I could
 <summary><em>Consider adding a voiceover.</em></summary>
 <p>Maybe I'm just getting old, but as I've puttered around various places by myself in the last week I've noticed that I don't stay silent: I mutter as I putter. Even if it's just short reactions to things I see ("nice!") or read ("really? really."), even if it's not words ("hmm!"), I tend to narrate my day.</p>
 
-<p>All of which is to say, if your soundscape takes your listeners along on a ride inside someone's head, but you haven't yet included any human voices, I'd at least give some thought to whether a word here or there might help. (Note that the voice doesn't have to exist in the same timestream as the events of the narrative: think about some of the retrospective commentary in <a href="https://training.npr.org/2015/10/30/six-npr-stories-that-breathe-life-into-neighborhood-scenes/">the NPR reading I had you do</a>, especially the pieces featuring Steve Inskeep and Robert Siegel.)</p>
+<p>All of which is to say, if your soundscape takes your listeners along on a ride inside someone's head, but you haven't yet included any human voices, I'd at least give some thought to whether a word here or there might help.</p>
+
+<p>Even if you're not inside someone's head, note that the voice doesn't have to exist in the same timestream as the events of the narrative! Think about some of the retrospective commentary in <a href="https://training.npr.org/2015/10/30/six-npr-stories-that-breathe-life-into-neighborhood-scenes/">the NPR reading I had you do</a>, especially the pieces featuring Steve Inskeep and Robert Siegel. A documentary-style voiceover can help you add context and dynamism to a more strictly chronological draft, and give you an excuse to add layers (including music) that wouldn't have been in the original scene. And you'd still be telling the same narrative!</p>
 </details>
 
 <details>
 <summary><em>Consider alignment</em></summary>
 <p>If you have a music track, or especially if you have more than one, you might want to time key moments in other tracks so they line up with downbeats. Similarly, you may want to have one sound begin just as another one ends – or, for crossfading, just <em>before</em> the other ends, so as to minimize gaps. These techniques can add a level of polish and intentionality to your soundscape, helping it to feel more like a complete and integral whole.</p>
-</details>
-
-<details>
-<summary><em>Consider adding a transcript.</em></summary>
-
-<p>If you're working off of a script, as a number of you seem to be, please do consider turning it into a readable transcript you can place alongside the sound file: it's not only more accessible for the temporarily or permanently hearing-impaired, but it also makes your piece easier to search for (and within). For examples of transcripts, you can do a lot worse than NPR's <em>This American Life</em>; see the links on our <a href="{{site.github.url}}/resources">course Reesources page</a>, under <a href="https://benmiller314.github.io/cdm2020fall/resources#audio">Advice and Examples</a>.</p>
 </details>
 
 <details>
@@ -65,6 +64,12 @@ A few seeds of ideas I want to plant, having listened through as much as I could
 <summary><em>Consider adding a title, including in your README.</em></summary>
 
 <p>A title can provide a location, a clue, a genre, a commentary; it can make or unmake listener expectations. What will you call your soundscape narrative? Where will you let listeners know that name? (In the README? In a recorded introduction to the sound file itself, either with or without a <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/TheTeaser?from=Main.ColdOpen">cold open</a>?) Note that an updated README is one of the expected elements in the original prompt, so don't forget to replace your placeholders there!</p>
+</details>
+
+<details>
+<summary><em>Consider adding a transcript.</em></summary>
+
+<p>If you're working off of a script, as a number of you seem to be, please do consider turning it into a readable transcript you can place alongside the sound file: it's not only more accessible for the temporarily or permanently hearing-impaired, but it also makes your piece easier to search for (and within). For examples of transcripts, you can do a lot worse than NPR's <em>This American Life</em>; see the links on our <a href="{{site.github.url}}/resources">course Resources page</a>, under <a href="https://benmiller314.github.io/cdm2020fall/resources#audio">Advice and Examples</a>.</p>
 </details>
 
 <!-- <details>
@@ -99,10 +104,11 @@ You can find me in the main room, or call me in to your breakout room if you hav
 
 ## Homework for next time
 
-* By 11:59pm on Sunday, **complete – at least for now – your soundscape narrative.** Your repository (on GitHub or in a Box folder shared to me) should include:
-   - Your most up-to-date layered Audacity project file (.aup)
-   - The `_data` folder associated with that Audacity project
-      * If this is still giving you trouble, please let me know! I can help.
+* **Complete – at least for now – your soundscape narrative.** The deadline is sort of scheduled for Sunday night at 11:59 pm, so you have a little breathing room to work on the reflection before Tuesday... however, especially with Rosh Hashanah taking up a big chunk of that time, I won't mark you late if you don't make it before the weekend ends.
+* Your repository (on GitHub or in a Box folder shared to me) should include:
+   - Your most up-to-date layered Audacity project file (`.aup`)
+   - The `_data` folder associated with that Audacity project. I cannot open your Audacity file without this!
+      * If getting the `_data` folder into your repo is still giving you trouble, please let me know: I can help. 
    - A series, now, of screenshots showing your Audacity project in progress. (Think about what moments are worth remembering as you go: where did you level up, or realize something, or get stuck?)
    - An updated ASSETS.md (or CREDITS.md) file reflecting what you actually used, including documentation of any outside sources and your permission to use them (e.g. explicit licenses like CC, or fair use)
    - An updated README.md file introducing your soundscape narrative to a new audience. Give your piece a title! Make it something to live beyond this assignment, if you can. :¬)
