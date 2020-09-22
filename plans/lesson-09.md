@@ -12,7 +12,7 @@
 <strong>Today is all about working on your individual projects!</strong> Mix sounds, apply effects, watch relevant tutorials. I know your lives are busy; take advantage of this dedicated time free from other distractions and obligations to move your piece forward.
 </div>
 
-At the same time, it's worth noting that you're working **in a shared space**, in a studio. If you have questions, or you want feedback on something, you have your classmates, your instructor, and your TA on-hand. Try not to monopolize anyone's time, but do be open to the possibility of getting farther together than you could on your own.
+At the same time, it's worth noting that you're working **in a shared space**, in a studio. If you have questions, or you want feedback on something, you have your classmates and your instructor on-hand. Try not to monopolize anyone's time, but do be open to the possibility of getting farther together than you could on your own.
 
 To make this more feasible over Zoom, I'm going to open up the breakout rooms, and set some shared constraints, which I hope will be enabling:
 
