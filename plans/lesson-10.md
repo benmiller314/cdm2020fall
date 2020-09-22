@@ -48,7 +48,7 @@ I want to do just a quick preview today, while we're thinking about the shape of
 
 Here's a project from last semester that I was planning to nominate for the Digital Media Showcase (which was canceled because of COVID-19):
 <figure>
-<img src="https://raw.githubusercontent.com/sydneymasterson/visual-argument-2020spring/master/PNGs/visual-argument-2-23.png" alt="Icons of women stand in 3 rows of 4, 5, and 8; in each row, most are solid white but 1 or 2 are transparent gray with bright pink stains between their legs. Headline reads: 'Education is a Right, Not a Luxury.' A hashtag at the bottom directs viewers to #TamponTax." longdesc="#text-from-showcase-image"></a>
+<img src="https://raw.githubusercontent.com/sydneymasterson/visual-argument-2020spring/master/PNGs/visual-argument-2-23.png" alt="Icons of women stand in 3 rows of 4, 5, and 8; in each row, most are solid white but 1 or 2 are transparent gray with bright pink stains between their legs. Headline reads: 'Education is a Right, Not a Luxury.' A hashtag at the bottom directs viewers to #TamponTax." longdesc="#text-from-showcase-image" />
 <figcaption>"Let's Talk About It." Sydney Masterson, 2020.</figcaption>
 <div id="text-from-showcase-image" class="sr-only">
 <h1>Education is a right, not a luxury</h1>
@@ -141,7 +141,7 @@ Points to hit:
    - <a href="https://www.thetypetree.com/blog/graphic-design-101-positive-and-negative-space">positive and negative space</a>;
    - <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">dominance and hierarchy</a>;
    - <a href="https://www.thetypetree.com/blog/graphic-design-101-rhythm-and-movement">rhythm and movement</a>.
-* **Find and photograph** at least one example of a visual or graphic design out in "the wild" that makes some sort of claim, or argument.
+* **Find and either [screenshot](https://www.take-a-screenshot.org/) or photograph** at least one example of a visual or graphic design out in "the wild" that makes some sort of claim, or argument.
   - By "design," I mean that some person made an active choice in its arrangement. A heap of clothes on the floor may have a lot of artistic potential to a photographer, but it's not yet *designed*.
   - By "in the wild," I mean that I expect you to come across some in the course of your routine travels around the web – or around your surroundings, if you're in a place where you get out into your surroundings. That said, if you need to search more actively, so be it; for one thing, you may need to pay more attention to ads that you've trained yourself to ignore.
    - By "argument," I mean there should be an idea beyond the pure visual layout. The argument could be explicit or implicit; it could be serious or a joke. (Some claims are just _X is like Y_.) But you should be able to put it in words.
