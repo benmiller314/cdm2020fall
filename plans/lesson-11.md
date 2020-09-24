@@ -48,13 +48,13 @@ If we all finish filling out the google doc with time to spare, I'd like to look
 
 <details><summary>Example 1</summary>
 <figure><img src="https://user-images.githubusercontent.com/40212476/94054374-9471ae80-fda9-11ea-9619-9b6ebb65744e.png" alt="The plastic pandemic is only getting worse during COVID-19. Two goldfish swim toward each other, one stuck in a latex glove, the other in the strap of a disposable mask." />
-<figcaption>Cartoon by Alireza Pakdel; posted by AlexaSpaventa</figcaption>
+<figcaption>Cartoon by Alireza Pakdel; <a href="https://github.com/benmiller314/cdm2020fall/issues/7#issuecomment-697856654">posted by AlexaSpaventa</a></figcaption>
 </figure>
 </details>
 
 <details><summary>Example 2</summary>
 <figure><img src="https://user-images.githubusercontent.com/70040063/94060189-845dcd00-fdb1-11ea-99c6-5628a91b5de6.jpg" alt="Box of Wheat Thins: 'Check out sundried tomato and its sidekick basil - here to save your taste buds with a tantalizing duo of delicious flavors.' Text spans most of the box, except where chips fill the bottom right quadrant." />
-<figcaption>Side of Sundried Tomato Wheat Thins box; posted by Maials268</figcaption>
+<figcaption>Side of Sundried Tomato Wheat Thins box; <a href="https://github.com/benmiller314/cdm2020fall/issues/7#issuecomment-697928818">posted by Maials268</a></figcaption>
 </figure>
 </details>
 
