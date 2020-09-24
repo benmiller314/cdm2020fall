@@ -44,7 +44,7 @@ If your group feels finished and others are still working, share the images you 
 
 
 ## EXT: Clear hierarchy vs. flat hierarchy
-If we all finish filling out the google doc with time to spare, I'd like to look at two examples that came in on the forum.
+If we all finish filling out the google doc with time to spare (by 3:05, say), I'd like to look at two examples that came in on the forum.
 
 <details><summary>Example 1</summary>
 <figure><img src="https://user-images.githubusercontent.com/40212476/94054374-9471ae80-fda9-11ea-9619-9b6ebb65744e.png" alt="The plastic pandemic is only getting worse during COVID-19. Two goldfish swim toward each other, one stuck in a latex glove, the other in the strap of a disposable mask." />
