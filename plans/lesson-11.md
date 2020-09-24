@@ -3,22 +3,27 @@
 
 **Work to have achieved**:
 
-* Read about graphic design principles (positive/negative space, dominance & hierarchy, rhythm & movement)
+* Read about graphic design principles (<a href="https://www.thetypetree.com/blog/graphic-design-101-positive-and-negative-space">positive &amp; negative space</a>, <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">dominance &amp; hierarchy</a>, <a href="https://www.thetypetree.com/blog/graphic-design-101-rhythm-and-movement">rhythm &amp; movement</a>)
 * Find a graphic or visual design that makes a claim or argument
 * Analyze the designed artifact through the lenses of graphic design principles.
 
 
 **Plan for the day**:
 
-1. Building our vocabulary (10-15 min) <!-- was more like 30 -->
-2. Loop writing into offline sketching (15-25 min)
-3. Further GIMP Demo: foreground selection (10 min)
-4. GIMP Practice (30 min)
+1. Building our vocabulary (25-30 min) <!-- was 30 last time, let's see if that continues online or not -->
+2. Loop writing into offline sketching (15 + 10 min)
+3. GIMP Practice (20 min)
+4. Concurrent GIMP Demo: foreground extraction
+5. Homework for next time
 
 
 ## 1. Building our vocabulary (10-15 min)
 
-A bunch of new terms! Let's try to annotate these – just a few key words each - so we know we're on the same page. Head on over to [bit.ly/cdm2020spring-criteria](http://bit.ly/cdm2020spring-criteria#heading=h.fhi9jgmnxpx8) and jump down to "Keywords toward a Visual Rhetoric."
+We have a bunch of new terms! Let's try to annotate these – just a few key words each - so we know we're on the same page. Head on over to [bit.ly/cdm2020fall-notes](http://bit.ly/cdm2020fall-notes#heading=h.z55p3g78u32k) and jump down to "Keywords toward a Visual Rhetoric." I'll open up the breakout rooms so you can discuss.
+
+<div class="alert alert-warning">
+ALT: To get credit for asynchronous participation, use the comments feature in the doc to add at least two links to additional examples that illustrate the principles of visual dominance, rhythm, or negative space.
+</div>
 
 * Visual Dominance <!-- What draws the eye? -->
    - Scale <!-- big -->
@@ -33,12 +38,35 @@ A bunch of new terms! Let's try to annotate these – just a few key words each
    - Flow <!-- suggest viewing sequence; works through variation set against similarities / multiple kinds of dominance, use of line -->
 * Positive and negative space <!-- breathing room, surprises -->
 
+
 ### EXT: Using our vocabulary (5-10 min)
-If time allows, share the images you posted with your table-mates. See if you can level up on your comfort analyzing visual design, using the terms from the reading (and now google doc).
+If your group feels finished and others are still working, share the images you posted to the forum within your group. See if you can level up on your comfort analyzing visual design, using the terms from the reading (and now google doc).
+
+
+## EXT: Clear hierarchy vs. flat hierarchy
+If we all finish filling out the google doc with time to spare, I'd like to look at two examples that came in on the forum.
+
+<details><summary>Example 1</summary>
+<figure><img src="https://user-images.githubusercontent.com/40212476/94054374-9471ae80-fda9-11ea-9619-9b6ebb65744e.png" alt="The plastic pandemic is only getting worse during COVID-19. Two goldfish swim toward each other, one stuck in a latex glove, the other in the strap of a disposable mask." />
+<figcaption>Cartoon by Alireza Pakdel; posted by AlexaSpaventa</figcaption>
+</figure>
+</details>
+
+<details><summary>Example 2</summary>
+<figure><img src="https://user-images.githubusercontent.com/70040063/94060189-845dcd00-fdb1-11ea-99c6-5628a91b5de6.jpg" alt="Box of Wheat Thins: 'Check out sundried tomato and its sidekick basil - here to save your taste buds with a tantalizing duo of delicious flavors.' Text spans most of the box, except where chips fill the bottom right quadrant." />
+<figcaption>Side of Sundried Tomato Wheat Thins box; posted by Maials268</figcaption>
+</figure>
+</details>
 
 ## 2a. Loop writing <!-- Takes 15 min -->
-_This exercise is adapted from one by Sondra Perl._
-<!-- starting at 3:05 -->
+For this generative exercise, adapted from [one by Sondra Perl](http://bit.ly/perlfeltsense), you'll need somewhere to write and somewhere to *draw*. Printer paper would be great; a notebook is also okay; the computer's probably not. I like pencil, but your preference may vary.
+
+<div class="alert alert-info">
+<p><strong>If you need to take a minute to get those supplies, please do so now.</strong></p>
+
+<p>If you're waiting for everyone else to come back, see if you can close your eyes and listen to your breath. (If that makes you uncomfortable, though, don't do it. Just have patience, and try not to judge.)</p>
+</div>
+
 Take a few minutes to think in writing about the visual arguments you might want to make. I'll read a series of questions aloud. Repeat them silently to yourself, and when you feel yourself answering, make a list.
 
 These lists will remain private, unless you choose to share. I won't ask for them.
@@ -65,19 +93,24 @@ If you can, try to make each image significantly different from each other, to g
 
 We'll work here for a while.
 
-## 4. GIMP Practice (30 min)
+## 3. GIMP Practice (20 min)
 
-**Option 1:** take your profile image and an alternative background you find online (use Google Image search's fair-use search > tools > usage rights, or see [other resources]({{site.base_path}}/resources#visuals)) to put yourself in a new location.
+**Option 1:** take your profile image and an alternative background you find online to put yourself in a new location. (Use Google Image search's fair-use search, found in search results under Images > Tools > Usage Rights, or see our course site's [other resources]({{site.base_path}}/resources#visuals).)
 
 **Option 2:** take the image you found for homework and alter it (slice it into layers, modify the layers) to get a better understanding of how its parts add up to a greater whole.
 
 
-## 3. GIMP Demo: Foreground extraction (15 min)
+## 4. Concurrent GIMP Demo: Foreground extraction (15 min)
 
-I'll demo, using "Fly Me to the Moon, by Way of a Hot Air Balloon" (2009) by [Beverly & Pack](https://www.flickr.com/photos/walkadog/), [on Flickr](https://www.flickr.com/photos/walkadog/3897126692/). [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
+For those who aren't sure where to start, you can follow along with me as I do some noodling around as well. I'm going to focus on a fairly common task, extracting a foreground object from its background.
+
+Here's what I'm using:
 
 <figure>
-<img src="../assets/img/beverly-and-pack--fly-me-to-the-moon.jpg" />
+<img src="../assets/img/beverly-and-pack--fly-me-to-the-moon.jpg" alt="A striped hot air balloon floating in a blue sky, darker toward the top of the image. A small, nearly full moon is visible; the ground is not." />
+
+<figcaption>"Fly Me to the Moon, by Way of a Hot Air Balloon" (2009) by [Beverly & Pack](https://www.flickr.com/photos/walkadog/), [on Flickr](https://www.flickr.com/photos/walkadog/3897126692/). [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
+</figcaption>
 </figure>
 
 <!--
@@ -96,7 +129,7 @@ I'll demo, using "Fly Me to the Moon, by Way of a Hot Air Balloon" (2009) by [Be
 # Homework for next time:
 
 * **Choose** at least one or two tutorials from [gimp.org/tutorials](https://gimp.org/tutorials), **and practice** what they teach. For beginners, GIMP Quickies and Simple Floating Logo are probably good places to start; Layer Masks is probably intermediate; and you can get quite advanced as you scroll down the page.
-* **Review** the unit-assignment [goals and options](https://github.com/benmiller314/visual-argument-2019fall#project-2-visual-argument--rhetorical-collage) for the rhetorical collage / visual argument.
+* **Review** the unit-assignment [goals and options](https://github.com/benmiller314/visual-argument-2020fall#project-2-visual-argument--rhetorical-collage) for the rhetorical collage / visual argument.
 * **Write** a project proposal, thinking in words about what you'd like to make:
     - What idea or argument will you try to represent? What _claim_ will you try to make – or, at least, what is the triggering idea (starting point) of that claim?
     - Include or link to a **prospective assets list**, i.e. a table of the images you think you'll need and where you might be able to source them. You can choose to include that assets list here or place it as a file in your repository, to more easily track changes.
