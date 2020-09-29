@@ -21,7 +21,7 @@ As I hope you saw on the site resources page, there are lots of tools to help yo
 
 You can also use copyrighted images if you can **make a case for it being a Fair Use.** That is, in either a credits file or your reflection (or both), you can argue that the balance of the four factors is in your favor:
 
-- purpose and character of the use
+- purpose and character of the use
 - nature of the copyrighted work
 - amount or substantiality of the portion used
 - market impact
