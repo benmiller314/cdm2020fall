@@ -42,6 +42,7 @@ Take a few minutes to write, with your own proposed visual argument / rhetorical
 </ul>
 </div>
 
+ALT: If your proposal already includes this level of planning, you can use the time to skim through the rest of the [visual argument examples]({{site.github.issues_url}}/7) your classmates posted. Maybe you'll find new inspiration!
 
 ## Studio Time!
 Some preview of the project will be due before next class, just to make sure you're all getting started on it.
