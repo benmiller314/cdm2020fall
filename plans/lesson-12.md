@@ -80,7 +80,7 @@ Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm2020fa
 
 ## Homework for next time
 
-* **Read** about fonts, if you haven't yet, at [https://www.canva.com/learn/font-design/](https://www.canva.com/learn/font-design/).
+* **Read** about fonts, if you haven't yet, at [https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/](https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/).
    - Optionally, **play** a font-matching game at [www.typeconnection.com](http://www.typeconnection.com/) to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts for what Thompson called hierarchy by "style."
 
 * Compose a **Visual Argument Preview**: an early snapshot of your progress, to get the gears turning, to get practice with GIMP, and to start testing out the ideas from your proposal (or beyond).
