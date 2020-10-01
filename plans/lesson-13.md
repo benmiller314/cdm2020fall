@@ -38,11 +38,11 @@ There are several reasons I like this collaborative process:
 
 ### 3b. Crowdsource ideas (15-20 min)
 <div class="alert alert-success">
-In breakout rooms, take 10 minutes to make some lists in the <a href="http://bit.ly/cdm2020fall-notes">class google doc</a>: given the <a href="https://github.com/benmiller314/visual-argument-2020fall#project-2-visual-argument--rhetorical-collage">goals of the unit</a>, what should we set as our minimum criteria for full credit? What are some ways we might push beyond that minimum – not merely in terms of quantity, but in terms of quality or challenge level?
+<p>In breakout rooms, take 10 minutes to make some lists in the <a href="http://bit.ly/cdm2020fall-notes">class google doc</a>: given the <a href="https://github.com/benmiller314/visual-argument-2020fall#project-2-visual-argument--rhetorical-collage">goals of the unit</a>, what should we set as our minimum criteria for full credit? What are some ways we might push beyond that minimum – not merely in terms of quantity, but in terms of quality or challenge level?</p>
 
-That is, <strong>I really want you to see these aspirational goals as opportunities to stretch yourselves and your skills, not just to do more of the same.</strong> Think about what would be new and potentially exciting – but not required for everyone.
+<p>That is, <strong>I really want you to see these aspirational goals as opportunities to stretch yourselves and your skills, not just to do more of the same.</strong> Think about what would be new and potentially exciting – but not required for everyone.</p>
 
-Remember that criteria should ideally be <strong>describable</strong>: we should easily be able to say whether the quality you're naming is present or absent.
+<p>Remember that criteria should ideally be <strong>describable</strong>: we should easily be able to say whether the quality you're naming is present or absent.</p>
 </div>
 
 EXT: If your group feels finished, skip ahead: read through other groups' notes, or start gathering thoughts on fonts and/or GIMP.
