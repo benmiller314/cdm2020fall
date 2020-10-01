@@ -91,13 +91,13 @@ NB: If you're joining us asynchronously, use this as studio time: please do add 
 * **Bring** a camera (phone is fine), to take photos of feedback received
 
 <div class="alert alert-info">
-NB: If GitHub is giving you trouble with large files, you can try Git Large File Storage (git-lfs). See the section on the Resources page about <a href="{{site.github.url}}/resources#:~:text=What%20to%20do%20if%20your%20files%20are%20too%20large%20for%20GitHub">What to do if your files are too large for GitHub</a>.
+<p>NB: If GitHub is giving you trouble with large files, you can try Git Large File Storage (git-lfs). See the section on the Resources page about <a href="{{site.github.url}}/resources#:~:text=What%20to%20do%20if%20your%20files%20are%20too%20large%20for%20GitHub">What to do if your files are too large for GitHub</a>.</p>
 
-And if all else fails, you can use Box instead. Just make sure that you...
+<p>And if all else fails, you can use Box instead. Just make sure that you...
 <ul><li>add a link to the Box folder at the top of your GitHub README.md file.</li>
 <li>grant the organization, which is Pitt, Downloader or Editor permissions in the Box folder</li>
 <li>include all the same files as you would have if you were only using GitHub.</li>
-</ul></div>
+</ul></p></div>
 
 
 <!--
