@@ -66,6 +66,12 @@ Table of contents:
 <dt><a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop">Contributing and Collaborating using GitHub Desktop</a></dt>
 <dd>The official documentation for using the GH Desktop application, a GUI (graphical user interface) that gives you more flexibility than the GitHub website, but also a more user-friendly appearance (including next-step-in-the-workflow suggestions) than command-line git. See especially the section, part of the second page linked above, about <a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch">making changes in a branch</a>.</dd>
 
+<dt>What to do if your files are too large for GitHub</dt>
+<dd><p>If you get an error message telling you that you can't push to GitHub because your files are too large, try <a href="https://git-lfs.github.com/">Git Large File Storage</a> (git-lfs): it stores large files on a separate server, and converts the file in your GH repo into a tiny pointer file. The <a href="https://docs.github.com/en/free-pro-team@latest/github/managing-large-files/versioning-large-files">documentation</a> is pretty clear, though it does involve a little command-line fu at times. (Nothing major: you can just follow the steps.) And when it's all set up, it works in GitHub Desktop pretty seamlessly.</p>
+
+<p>The one catch is that if you're using git-lfs on a forked repo, the extra storage you get counts against the quota of the <em>upstream</em> fork, so if everyone uses it for CDM assignments, eventually I run out of data and *nothing* can be pushed. So at the end of the semester, I'll ask you to re-clone your repo and add a new remote branch that's not on my fork tree. But we'll cross that bridge if/when we come to it!</p>
+</dd>
+
 <dt><a href="https://education.github.com/git-cheat-sheet-education.pdf">Git Cheat Sheet</a></dt>
 <dd>Two pages containing everything you need to know for everyday version-tracking, from how to set up your local repository to how to recover past versions, with your normal status->add->commit->push-> workflow prominently placed. This is all for the command line; if that makes you uncomfortable, you might enjoy this somewhat irreverent <a href="https://learning.oreilly.com/library/view/learn-python-the/9780133124316/app03.html">Command Line Crash Course</a>. Or, you know, just go with the GitHub Desktop GUI.</dd>
 
