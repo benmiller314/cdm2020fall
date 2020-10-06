@@ -109,11 +109,11 @@ Let's do this!
 
 Within each group, **you're responsible for commenting on the three people listed after your name**; if that takes you to the end of the line, wrap around. _(e.g. Alexa will review visual arguments for Christianna, Carly, and Kyle O; Christianna will review for Carly, Kyle O, and Leia; Carly will review for Kyle O, Leia, and Alexa; and so on.)_
 
-* [Alexa](https://github.com/AlexaSpaventa/visual-argument2020fall), [Christianna](https://github.com/csk32/visual-argument2020fall), [Carly](https://github.com/carlystanford/visual-argument2020fall), [Kyle O'Malley](https://github.com/jkomalley/visual-argument2020fall), [Leia](https://github.com/leiawerner/visual-argument2020fall)
-* [Brian](https://github.com/briansostek/visual-argument2020fall), [Lydon](https://github.com/LLP37/visual-argument2020fall), [Lucas](https://github.com/LDib/visual-argument2020fall), [Hunter](https://github.com/hjo6/visual-argument2020fall), [Shreya](https://github.com/shreyababu/visual-argument2020fall)
-* [Trinity](https://github.com/trinitymccool/visual-argument2020fall), [Jacob](https://github.com/JTH74/visual-argument2020fall), [Henry](https://github.com/heh44/visual-argument2020fall), [Maia](https://github.com/Maials268/visual-argument2020fall), [Nicholas](https://github.com/peekssezin/visual-argument2020fall)
+* [Alexa](https://github.com/AlexaSpaventa/visual-argument-2020fall), [Christianna](https://github.com/csk32/visual-argument-2020fall), [Carly](https://github.com/carlystanford/visual-argument-2020fall), [Kyle O'Malley](https://github.com/jkomalley/visual-argument-2020fall), [Leia](https://github.com/leiawerner/visual-argument-2020fall)
+* [Brian](https://github.com/briansostek/visual-argument-2020fall), [Lydon](https://github.com/LLP37/visual-argument-2020fall), [Lucas](https://github.com/LDib/visual-argument-2020fall), [Hunter](https://github.com/hjo6/visual-argument-2020fall), [Shreya](https://github.com/shreyababu/visual-argument-2020fall)
+* [Trinity](https://github.com/trinitymccool/visual-argument-2020fall), [Jacob](https://github.com/JTH74/visual-argument-2020fall), [Henry](https://github.com/heh44/visual-argument-2020fall), [Maia](https://github.com/Maials268/visual-argument-2020fall), [Nicholas](https://github.com/peekssezin/visual-argument-2020fall)
 
-* (async group): [Ben Schatz](https://github.com/bschatz17/visual-argument2020fall), [Kyle Maxwell](https://github.com/KyleMaxwell1224/visual-argument2020fall), [Jagr](https://github.com/jeepy33/visual-argument2020fall), [Kevin](https://github.com/kevdliedel/visual-argument2020fall)
+* (async group): [Ben Schatz](https://github.com/bschatz17/visual-argument-2020fall), [Kyle Maxwell](https://github.com/KyleMaxwell1224/visual-argument-2020fall), [Jagr](https://github.com/jeepy33/visual-argument-2020fall), [Kevin](https://github.com/kevdliedel/visual-argument-2020fall)
 
 
 <div class="alert alert-warning">
