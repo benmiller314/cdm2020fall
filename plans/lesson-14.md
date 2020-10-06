@@ -102,6 +102,24 @@ Updated GitHub instructions, based on last time's pitfalls and solutions!
 
 5. Repeat the steps above for your next two partners' repos. On subsequent loops, note that **after** viewing the project first, you may also want to read and/or refer to the previous comments.
 
+### Your Groups
+<div class="alert alert-success">
+Let's do this!
+</div>
+
+Within each group, **you're responsible for commenting on the three people listed after your name**; if that takes you to the end of the line, wrap around. _(e.g. Alexa will review visual arguments for Christianna, Carly, and Kyle O; Christianna will review for Carly, Kyle O, and Leia; Carly will review for Kyle O, Leia, and Alexa; and so on.)_
+
+* [Alexa](https://github.com/AlexaSpaventa/visual-argument2020fall), [Christianna](https://github.com/csk32/visual-argument2020fall), [Carly](https://github.com/carlystanford/visual-argument2020fall), [Kyle O'Malley](https://github.com/jkomalley/visual-argument2020fall), [Leia](https://github.com/leiawerner/visual-argument2020fall)
+* [Brian](https://github.com/briansostek/visual-argument2020fall), [Lydon](https://github.com/LLP37/visual-argument2020fall), [Lucas](https://github.com/LDib/visual-argument2020fall), [Hunter](https://github.com/hjo6/visual-argument2020fall), [Shreya](https://github.com/shreyababu/visual-argument2020fall)
+* [Trinity](https://github.com/trinitymccool/visual-argument2020fall), [Jacob](https://github.com/JTH74/visual-argument2020fall), [Henry](https://github.com/heh44/visual-argument2020fall), [Maia](https://github.com/Maials268/visual-argument2020fall), [Nicholas](https://github.com/peekssezin/visual-argument2020fall)
+
+* (async group): [Ben Schatz](https://github.com/bschatz17/visual-argument2020fall), [Kyle Maxwell](https://github.com/KyleMaxwell1224/visual-argument2020fall), [Jagr](https://github.com/jeepy33/visual-argument2020fall), [Kevin](https://github.com/kevdliedel/visual-argument2020fall)
+
+
+<div class="alert alert-warning">
+If you're participating asynchronously, please try to complete your review by the end of Thursday night, so your partners can work with your feedback in mind – Wednesday would be even better, so they could have your comments before Thursday's studio time. If that's just not possible (and I understand how that might be the case), let me know asap and I'll make sure the others get my feedback in the meantime. Saturday night is about the latest it might still be helpful, so that's the async attendance deadline; just confirm that you've pulled the latest version whenever you start.
+</div>
+
 
 I'll help keep track of time, but you may well want to set your own timer.
 <!--
@@ -113,7 +131,10 @@ third rotation starts 3:08
 <div class="alert alert-info">
 On subsequent loops, <em>after</em> viewing the project first, you may also want to read and/or refer to the previous comments.</div>
 
-## 4. Evaluation revisited (10 min)
+
+
+
+## 5. Evaluation revisited (10 min)
 If you finish early and are waiting for your classmates, first take a minute to reread the comments you just *gave*: can you tell from your description what the image contains / conveys, or do you assume someone else is looking at it?
 
 If you're satisfied, reflect in your own notes on this process: did it help you realize anything about the criteria, or about your own project, or about data writing more broadly? Did it raise any new questions?
