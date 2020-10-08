@@ -123,6 +123,7 @@ Based on your viewing, if you'd like to propose changes to the baseline criteria
 
 
 # Homework for Next Time
+<!-- Ack, forgot to include the blog post! Add it back in next time. -->
 * Next class will be a web designers' studio, like this past Tuesday's: I'll be on Zoom during class time (2:50-4:05), as usual, but I'll mostly put you in our old breakout groups and keep track of 25-minute intervals. I'll stay in the main room to field questions or just for check-ins.
 * The final draft is due at the end of the day on Sunday night, 9/20, and a reflection by class-time on Tuesday, 9/22; see the [prompt](https://github.com/benmiller314/soundscape2020fall) for further details.
 
