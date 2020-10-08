@@ -150,7 +150,7 @@ Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm2020fa
 * By Tuesday's class, **write a prose reflection** that incorporates images from your feedback and screenshots of your GIMP project. As explained in the [prompt for the assignment](https://github.com/benmiller314/visual-argument-2020fall#deadlines-and-products), this should include:
    - At least 500 words
    - Your own assessment of how you met the [baseline criteria](http://bit.ly/cdm2020fall-notes#heading=h.2bzm7d1y0u2d) and goals for the unit, as well as any aspirational goals as appropriate
-   - At least one photograph of a notecard with feedback you used (and please say how)
+   - At least one screenshot or blockquote of feedback you used (and please say how)
    - At least one or two screenshots of your work in progress (ideally, related to the discussion in the previous two bullets)
 * **Post your reflection** to the course site's [Issue queue]({{site.github.issues_url}}), to make it easier to embed images.
    - If you want to then copy the source code into a file in your repo called reflections.md, I won't stop you!
