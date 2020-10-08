@@ -72,6 +72,16 @@ Sometimes GIMP seems to promise the world, but when you apply the effect, it's l
 </details> -->
 
 <details>
+<summary><em>Consider adding a link to your image</em></summary>
+
+<p>Many of you are trying to get viewers to take an action; if you haven't yet, consider giving them a place to go to get involved, or to get more information. Make this link large enough to be easily readable, even though it probably won't fall at the top level of your visual hierarchy (because it makes more sense as the last thing, rather than the first thing, they see).</p>
+
+<p>Even if you don't have such a call to action in your visual argument, you might want to add an unobtrusive link to your credits file on GitHub – e.g. in a small font-size along the border. This would serve as a compromise between filling a sidebar or footer with all the required attributions for your Creative Commons images (though that may be fine, too) and simply not making those names available – which would be a violation of the CC-BY and related licenses.</p>
+
+<p>A link shortener like bit.ly or ow.ly may help to keep this kind of link subtle enough not to detract from your design.</p>
+</details>
+
+<details>
 <summary><em>Consider whether you have enough screenshots.</em></summary>
 
 <p>Think about what moments are worth remembering as you go: where did you level up, or realize something, or get stuck? Take a <a href="https://www.take-a-screenshot.org/">screenshot</a> in the moment, so you can refer back to it in your reflection.</p>
