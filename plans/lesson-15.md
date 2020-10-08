@@ -84,7 +84,7 @@ Sometimes GIMP seems to promise the world, but when you apply the effect, it's l
 ## Okay, now go to!
 
 
-<p>As usual, please <strong>set a daily goal</strong> in the <a href="http://bit.ly/cdm2020fall-notes#heading=h.eoho7hxxyl3w">shared notes doc</a>, both for accountability and so I can look for ways to help.</p>
+<p>As usual, please <strong>set a daily goal</strong> in the <a href="http://bit.ly/cdm2020fall-notes#heading=h.gfkdc6ww6xcp">shared notes doc</a>, both for accountability and so I can look for ways to help.</p>
 
 Then **consult the clock and your partners**: leaving 5 minutes to return to the main room at the end of the class, do you have time for two 20-minute cycles and one 5-minute check-in? Three 15-minute cycles and two check-ins?
 
@@ -114,7 +114,7 @@ Don't forget to save periodically as you go:
 
 
 
-<div class="alert alert-warning"><p>To get credit for asynchronous participation, <strong>add your working goals to the <a href="http://bit.ly/cdm2020fall-notes#heading=h.eoho7hxxyl3w">google doc</a> when you start your session</strong>, set your timer, and when the bell rings, <em>add a brief reply</em> to your initial note with a status update. (This can be very brief.) Run through this cycle at least twice.</p>
+<div class="alert alert-warning"><p>To get credit for asynchronous participation, <strong>add your working goals to the <a href="http://bit.ly/cdm2020fall-notes#heading=h.gfkdc6ww6xcp">google doc</a> when you start your session</strong>, set your timer, and when the bell rings, <em>add a brief reply</em> to your initial note with a status update. (This can be very brief.) Run through this cycle at least twice.</p>
 
 <p>NB: To make it easier for me to find your additions to the doc, please use either Comments or Suggestion Mode.</p>
 </div>
@@ -124,7 +124,7 @@ Don't forget to save periodically as you go:
 
 Just as a way for me to check in, I'd like to hear more about what happened today: did you find images? Level up on a particular GIMP skill? Which ones? Decide something about your project (what was it)? Raise a question in a new way that you'd like some help with?
 
-Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm2020fall-notes#heading=h.eoho7hxxyl3w">the doc</a>. If everyone finishes early, we can hear from a few volunteers out loud.
+Take five minutes to reply to your own notes in <a href="http://bit.ly/cdm2020fall-notes#heading=h.gfkdc6ww6xcp">the doc</a>. If everyone finishes early, we can hear from a few volunteers out loud.
 
 
 
