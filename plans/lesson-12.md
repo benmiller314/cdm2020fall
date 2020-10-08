@@ -1,5 +1,5 @@
 
-# Visual Unit Studio
+# Visual Unit Studio 1
 
 **Work to have achieved**:
 * Review the [resources page]({{site.github_url}}/resources) and unit assignment [goals and options](https://github.com/benmiller314/visual-argument-2020fall#project-2-visual-argument--rhetorical-collage)
