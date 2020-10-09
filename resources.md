@@ -211,6 +211,7 @@ Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets lis
 <dd>GIMP also has a separate <a href="https://docs.gimp.org/2.10/en/">user manual</a>.
     <div class="alert alert-info">If you get stuck, I highly recommend <strong><a href="https://docs.gimp.org/2.10/en/gimp-getting-unstuck.html">Chapter 4: Getting Unstuck</a></strong>!</div>
 </dd>
+<dd>There's a nice <a href="https://www.youtube.com/playlist?list=PLynG8gQD-n8Dl23X0o1HFu_5PmBl79niz">GIMP tutorial series</a> posted to YouTube by <a href="https://www.youtube.com/c/LogosByNick">LogosByNick</a>, still being updated as of Fall 2020; his main channel also includes things like <a href="https://www.youtube.com/watch?v=JQj7uUGl6Sk">Common Mistakes New GIMP Users Make</a>, as well as other series on Inkscape (a vector graphics program) and logo design.</dd>
 
 <dt>Examples of Visual Rhetoric in Action</dt>
 <dd><a href="https://thinkerthoughtinfo.tumblr.com/">Thinker/Thought</a>, a collection of academic infographics by Nathaniel Rivers. In addition to being useful for how he handles design elements, quotation, and citation, some of the content deals with ideas on multimedia composing and rhetoric.</dd>
