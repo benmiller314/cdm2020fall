@@ -82,7 +82,7 @@ Split vs. split new. Mute/solo tracks.
 Works like you'd expect it should.
 
 ### Effects.
-There are lots. Some good ones to start with: Fade in / out; change tempo; auto duck.
+There are lots. Some good ones to start with: Fade in / out; change tempo; auto duck. <!-- FOR NEXT TIME, mention that it will often make sense to [duplicate a track](https://manual.audacityteam.org/man/edit_menu_copy_paste_and_duplicate.html) before applying effects, so you have the flexibility to undo or fiddle around with the settings – even after moving on to other things. -->
 
 ## 3. Audacity Play Time (25-35 min)
 

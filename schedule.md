@@ -99,7 +99,7 @@ For next time:
 
 
 For next time:
-
+<!-- ADD LinkedIn Learning series on Audacity linked from Resources page -->
 * **Work** to bring in a full draft of your soundscape narrative
 * **Continue** taking screenshots and posting meaningful commits to GH
 * **Push** a full draft, with the same four parts as the preview *plus* a SOURCES.md file crediting your sources and permissions/license to use them
@@ -138,6 +138,7 @@ For next time:
 <h3><a href="{{site.github_url}}/plans/lesson-11">Lesson 11, Thursday 9/24</a> – Generating Visual Ideas</h3>
 
 For next time:
+<!-- REPLACE the tutorials from GIMP with LinkedIn Learning tutorials (see links on resource page)? There are exercise files in there. -->
 * **Choose** and do at least 1-2 [tutorials from the GIMP site](https://gimp.org/tutorials), **and practice** what they teach.  
 * **Write** a visual rhetoric proposal, including a prospective asset list; post to <a href="{{site.github.issues_url}}">the issue queue</a>
 
