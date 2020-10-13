@@ -189,7 +189,7 @@ dd {
 }
 
 /* Some lists should be more widely spaced */
-ul.spaced li, ol.spaced li {
+ul.spaced > li, ol.spaced > li {
 	  margin-bottom: 1em;
 }
 

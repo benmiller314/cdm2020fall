@@ -24,7 +24,7 @@ And now I'm going to ask you to write just a little bit more, and then we'll spe
 <div class="alert alert-success">
 You've just written a reflection specific to your visual-rhetorical project; now, take a few minutes to write a broader reflection on the semester as a whole. <strong>Start with the question that speaks most to you right now, and then move on to others</strong> as you finish answering. We'll take about 10 minutes here.</div>
 
-<ol>
+<ol class="spaced">
 <li>In the syllabus, I asked you to think about "the affordances of digital media: that is, what’s made possible by working with bits instead of paper, even when we are still working with words[...] How do the answers change, or shift, as we move beyond words into aural and visual modes?" Now that you've digitally crafted both sounds and images, you're in a better position to answer:<ul>
 <li>What's <em>afforded</em> (i.e. enabled, foregrounded, suggested) differently in these different media?</li>
 <li>What strategies carry across them?</li>
