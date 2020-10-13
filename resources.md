@@ -262,9 +262,16 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 
 <dt><a href="https://caniuse.com">caniuse.com</a></dt>
 <dd>CSS is a living language, and the ongoing development of new CSS capabilities means that some browsers are slower to adopt the most current standards than others. To confirm that a particular rule will work across browsers, you can check here: just enter the CSS attribute you wish to set in the big "Can I use ______?" search box at the top of the page.</dd>
-</dl>
+
+
+<dt><a href="https://atom.io">Atom text editor</a></dt>
+<dd><p>There are lots of great coding-friendly text editors out there, and even many excellent free ones. Essential features to look for are <em><a href="https://en.wikipedia.org/wiki/Syntax_highlighting#:~:text=Syntax%20highlighting%20is%20a%20feature,to%20the%20category%20of%20terms">syntax highlighting</a></em> and the ability to <em>view several files side-by-side</em>.</p>
+<p>Lately I've been pretty into Atom: it's cross-platform; it uses your existing file system for project management (rather than inventing its own file system); it has flexible panes for viewing; it's open source and extendable – and thus has lots of packages out in the world, including for rendered HTML or Markdown previews. Plus, it can work directly with git and GitHub, without even having to leave the editor. </p>
+<p>I'm still in the market for good tutorials on working with Atom, but this one from Level Up looks pretty decent: <a href="https://www.youtube.com/playlist?list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_">Atom Editor Tutorials</a>; essential episodes include <a href="https://www.youtube.com/watch?v=ZnzLPIhMJnw&list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_&index=4">#3 The Atom Interface with Tips and Tricks</a> and <a href="https://www.youtube.com/watch?v=IgSW1umKrVs&list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_&index=7">#6 Project Management In Atom</a>.</p>
+</dd>
 
 <!-- Add section on text editors? i.e atom.io, brackets.io, etc?-->
+</dl>
 
 ## File Compression
 
