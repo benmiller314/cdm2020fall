@@ -15,18 +15,9 @@
 5. CSS in 4 minutes (10-15 min)
 6. Homework preview
 
-<!-- NOTE FOR NEXT TIME: don't cut CSS in 4 minutes, and maybe even start with it? I ended up with 30 minutes left!!
+<!-- NOTE FROM LAST TIME: don't cut CSS in 4 minutes, and maybe even start with it? I ended up with 30 minutes left!!
 
-Okay, here's my current proposal for next time:
-1. midterm reflection (10 min)
-2. share / discuss reflections (10 min)
-3. CSS Zen Garden. (5 min) different ways visual representations can highlight / draw attention.
-4. Reveal: every one of these sites uses the exact same underlying text. How? By telling the computer what _parts_ a thing has, you can separate out how to _display_ those parts.
-Consider making a PowerPoint for the next bit:
-5. Separate, but cross-related, languages have developed to handle the part-marking and the display: html and css. (other web languages, like php, javascript, ruby, and python, can dynamically generate or change the html and css; but html and css are the core of what gets shown on the screen.)
-6. pre-fab (not inspector-based) examples (maybe in a codepen?) of html + css + output. structure of an html tag (maybe start with <a>, because it has attributes? use atom to show syntax highlighting, which makes it easier to see the parts. also note the open-tag close-tag structure is essentially like parentheses, and show https://xkcd.com/859/.)
-7. div as a kind of layer-group: collect these things, treat them the same. container model.
-
+cdm2020spring update: NOPE, REVERT NOTE FOR NEXT TIME from last time: we ran out of time for CSS in 4 minutes (code pen, y'all), and it's probably a better use of time to **get everyone into the tutorial so you can troubleshoot Atom with them.** In fact, skip it until after they've seen the CSS selectors tutorial!
 
 -->
 
@@ -182,9 +173,7 @@ The same is true in HTML, but it looks a little different:
 <div class="alert alert-info">
 <p>Unlike in Markdown, opening and closing tags in HTML aren't exactly the same. But they're <em>almost</em> the same: a closing tag in HTML just adds the slash after the first angle bracket.</p>
 
-<p>You can think of them as being like <a href="https://xkcd.com/859/">parentheses</a>!</p>
-
-<!-- <p>In general, every tag you open should close. You can nest a complete pair of tags inside another pair, but you can't close the outer pair before closing the inner pair.</p> -->
+<p>You can think of them as being like <a href="https://xkcd.com/859/">parentheses</a>: In general, every HTML tag you open should close. (You can nest a complete pair of tags inside another pair (like these parentheses), but you can't close the outer pair before closing the inner pair without causing problems.)</p>
 </div>
 
 One nice thing about having the tags themselves marked by angle brackets is that you can add information to them:
@@ -218,15 +207,16 @@ Some of this is easier to understand with a live demo! Let's head over to a [Cod
 CSS rules to hit:
 1. headers
 2. paragraphs
-3. no default spacing: let's change it!
-4. a div is like a layer-group: collect these things, operate on them together. it's a container.
-5. id's and # selectors
-6. classes and . selectors
+3. using Atom to auto-close tags
+4. no default spacing: let's change it!
+5. a div is like a layer-group: collect these things, operate on them together. it's a container.
+6. ids and # selectors
+7. classes and . selectors
  -->
 
 ## 4. Web-design unit overview and assignment (10 min)
 
-As I explained in the syllabus, your third project is to **build a responsive website using basic html and css files** — as opposed to a site manager like WordPress or Wix — **along with any media assets you wish to embed.** In assigning this, I have two main goals for you:
+As I explained in the syllabus, your third project is to **build a portfolio website using basic html and css files** — as opposed to a site manager like WordPress or Wix — **along with any media assets you wish to embed.** In assigning this, I have two main goals for you:
 
 1. to learn how to manage a composite project made up of multiple interlinking files, and
 2. to explore the affordances of the web design stack as a medium, and especially its ability to _flexibly render content for multiple audiences or reading priorities_.
