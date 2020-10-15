@@ -17,11 +17,12 @@ Our next unit takes us into the world of hypertext, a more interactive medium. B
 
 Some things to notice:
 
+
 * Responsive design: the same page can change appearance to suit the "viewscreen" (especially as the width changes).
 
 <!-- demo Verde Moderna (the default), -->
 
-* The visual hierarchy holds here, too – including uses of negative space as a way of establishing rhythm.
+* The visual hierarchy holds here, too – including uses of containment and alignment to form groups, and negative space to establish rhythm.
 
 <!-- Screen Filler, -->
 
@@ -29,7 +30,7 @@ Some things to notice:
 
 <!-- Mid-Century Modern -->
 
-* This is all _exactly_ the same html.
+* Oh, and also? Every page you've just seen has _exactly_ the same underlying html.
 
 <!-- Even A Robot Named Jimmy. -->
 
@@ -177,7 +178,7 @@ As I explained in the syllabus, your third project is to **build a portfolio web
 2. to explore the affordances of the web design stack as a medium, and especially its ability to _flexibly render content for multiple audiences or reading priorities_.
 
 <div class="alert alert-success">
-  To read the full assignment – and fork a copy for yourself – go to <strong><a href="https://github.com/benmiller314/website-portfolio-2020spring#project-3-website-portfolio">github.com/benmiller314/website-portfolio-2020spring</a></strong>.
+  To read the full assignment – and fork a copy for yourself – go to <strong><a href="https://github.com/benmiller314/website-portfolio-2020fall#project-3-website-portfolio">github.com/benmiller314/website-portfolio-2020fall</a></strong>.
 </div>
 
 Let's read through this together.
