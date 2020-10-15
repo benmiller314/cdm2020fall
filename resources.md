@@ -84,6 +84,11 @@ Table of contents:
 </dl>
 
 ## Free and Licensed Images, Sounds, and Other Assets
+In this section:
+- [Sounds and Music](#sounds-and-music)
+- [Visuals](#visuals)
+- [Web Frameworks](#web-frameworks)
+
 <dl>
 <dt><a href="https://search.creativecommons.org">search.creativecommons.org</a></dt>
 <dd>A portal for searching multiple sites that have built-in CC licensing, including flickr, jamendo, and ccmixter</dd>
@@ -115,8 +120,8 @@ Table of contents:
 <dd>A collection of high-res, large-scale images that are free for personal <em>and</em> commercial uses; they may be especially useful for splashy website headers and homescreens.</dd>
 
 <dt><a href="https://www.fontsquirrel.com/">Font Squirrel</a></dt>
-<dd>Fonts that are free for personal <em>and</em> commercial uses, making them especially handy for advertising campaigns and the like.
- The site also includes some useful educational resources for learning more about font history and font selection.</dd>
+<dd><p>Fonts that are free for personal <em>and</em> commercial uses, making them especially handy for advertising campaigns and the like. The site also includes some useful educational resources for learning more about font history and font selection.</p>
+<p>For web design applications, see also their <a href="https://www.fontsquirrel.com/tools/webfont-generator">WebFont Generator, </a>, because even once you've find a good font, before you can use it on the web, it has to be formatted for browsers to render properly. Some fonts on your favorite font sites will already have webfont versions. If they don't, you can convert them to web-ready fonts using this tool. Just make sure you have permission to do so, okay?</p></dd>
 
 <dt><a href="https://thenounproject.com/">The Noun Project</a></dt>
 <dd>A collection of liberally licensed icon sets aiming to create "icons for everything," though as the name suggests, they specialize in <em>things</em>, rather than actions. If you realize you don't want all the detail of a photo when a simple line drawing would get the idea across, try searching their million-plus collection.</dd>
@@ -156,6 +161,12 @@ Table of contents:
 </dl>
 
 ## Advice and Examples
+In this section:
+- [Audio](#audio)
+- [Visual](#visual)
+- [Web Design](#web-design)
+- [Interactive Narrative](#twine--interactive-narrative)
+
 
 ### Audio
 Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the sections on <a href="#file-compression">file compression</a> and the link to <a href="#other-resource-roundups">Courtney Danforth's soundwriting advice</a>, below.
@@ -225,20 +236,19 @@ Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets lis
 In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find Unsplash especially useful here (for banner images), as well as FontSquirrel (check the web licenses) and The Noun Project (for icons)... in addition, of course, to the web frameworks themselves.
 
 <dl>
-<dt><a href="https://internetingishard.com/html-and-css/">internetingishard.com/html-and-css</a></dt>
-<dd>Your one-stop shop for learning basic web architecture from the ground up. I'll assign this for homework. UPDATE: The website went down some time between February 14th and February 19th of 2019! Luckily, there's a copy on <a href="https://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/">The Wayback Machine</a>. If the main link doesn't work, go there!</dd>
+<dt><a href="https://internetingishard.com/html-and-css/">Interneting is Hard (but it doesn't have to be)</a></dt>
+<dd>Your one-stop shop for learning basic web architecture from the ground up, with clear explanations and cute illustrations. I'll assign chapters from this over several homeworks. </dd>
 
 <dt><a href="http://jgthms.com/web-design-in-4-minutes">Web Design in 4 Minutes</a></dt>
 <dd>We'll walk through this demo <a href="{{site.github_url}}/plans/lesson-18#web-design-in-4-minutes-in-15-min">in class</a>; if you're at a loss for what to include in your stylesheet, you can do far worse than adding the basic spacing rules Jeremy Thomas sets up here.</dd>
 
 <dt><a href="https://css-tricks.com/how-css-selectors-work/">How CSS Selectors Work (CSS-Tricks)</a></dt>
-<dd><p>This could be a very useful follow-up to the Interneting is Hard tutorial, or perhaps just a handy reference for some of the more common "advanced" CSS selectors. It starts from basic ways of matching style rules to html elements, and then proceeds to discuss what happens when multiple rules apply to the same element – which rule "wins," or supersedes the other. To sum up, it's not simply which one comes last in the \*.css file (though that also matters): in general, the more narrowly defined rule will still override a more broadly defined one. Read on for more details... and if even that doesn't satisfy you, try <a href="https://css-tricks.com/specifics-on-css-specificity/">css-tricks.com/specifics-on-css-specificity</a>.</p>
+<dd><p>This could be a very useful follow-up to the Interneting is Hard tutorial, or perhaps just a handy reference for some of the more common "advanced" CSS selectors. It starts from basic ways of matching style rules to html elements, and then proceeds to discuss what happens when multiple rules apply to the same element – which rule "wins," or supersedes the other. To sum up, it's not simply which one comes last in the \*.css file (though that also matters): in general, the more narrowly defined rule will still override a more broadly defined one. Read on for more details... and if even that doesn't satisfy you, try their deep-dive in <a href="https://css-tricks.com/specifics-on-css-specificity/">Specifics on CSS Specificity</a>.</p>
 <p>Also, it's worth saying that many of my Google searches for solutions to CSS problems lead me to CSS-Tricks, so I figured I'd point it out early and reassure you that it's legit. Some very clear explanations not only of what to do, but why it works – and, often, alternative approaches to the same challenges.</p>
 </dd>
 
-
 <dt><a href="https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725">CSS Grid Layout</a> tutorial on Medium</dt>
-<dd><p>This is a great little introduction to the latest CSS approach to layout – <code>display: grid</code> – which is new enough that it's not in the Interneting is Hard tutorial, but old enough that it's now has almost universal browser support. (As with many things, older versions of Internet Explorer may not work with grid displays. But does anyone still use old versions of IE?) What I like about this particular tutorial is that it's embedded not only with images, but with short screen-capture GIFs that demonstrate in a very immediate way what happens to the layout when a new CSS rule is added.</p>
+<dd><p>This is a great little introduction to the latest CSS approach to layout (<code>display: grid</code>) which is new enough that it's not in the Interneting is Hard tutorial, but old enough that it's now has almost universal browser support. (As with many things, older versions of Internet Explorer may not work with grid displays. But does anyone still use old versions of IE?) What I like about this particular tutorial is that it's embedded not only with images, but with short screen-capture GIFs that demonstrate in a very immediate way what happens to the layout when a new CSS rule is added.</p>
 <p>Author Rafaela Ferro also does a great job of keeping the tone light by focusing on cute pictures of dogs. I also recommend her follow-up tutorial on <a href="https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f">using CSS Grid to create responsive layout</a> – which is, as she argues, far easier to do with Grid than with Flexbox (let alone Float).</p>
 </dd>
 
@@ -254,15 +264,11 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <p>Luckily, you have a tool that can help you do it: GIMP! Check the link above for some tips on pixel counts, resolutions (pixels per inch), and jpeg compression quality.</p>
 </dd>
 
-<dt><a href="https://www.fontsquirrel.com/tools/webfont-generator">WebFont Generator, by FontSquirrel</a></dt>
-<dd>When you find a good font, before you can use it on the web it has to be formatted for browsers to render properly. Some fonts on your favorite font sites will already have webfont versions. If they don't, you can convert them to web-ready fonts using this tool. Just make sure you have permission to do so, okay?</dd>
-
 <dt><a href="https://chrispederick.com/work/web-developer/">Web Developer Plugins</a></dt>
 <dd>This is a browser plugin, available for Chrome, Firefox, and Opera, that allows you to test your web pages by manipulating them in various ways – by temporarily turning off JavaScript, for example, or replacing all images with their alt text. (I've found the latter tool particularly useful.) It also includes html and css validators, to help you find typos that are throwing off your code.</dd>
 
 <dt><a href="https://caniuse.com">caniuse.com</a></dt>
 <dd>CSS is a living language, and the ongoing development of new CSS capabilities means that some browsers are slower to adopt the most current standards than others. To confirm that a particular rule will work across browsers, you can check here: just enter the CSS attribute you wish to set in the big "Can I use ______?" search box at the top of the page.</dd>
-
 
 <dt><a href="https://atom.io">Atom text editor</a></dt>
 <dd><p>There are lots of great coding-friendly text editors out there, and even many excellent free ones. Essential features to look for are <em><a href="https://en.wikipedia.org/wiki/Syntax_highlighting#:~:text=Syntax%20highlighting%20is%20a%20feature,to%20the%20category%20of%20terms">syntax highlighting</a></em> and the ability to <em>view several files side-by-side</em>.</p>
