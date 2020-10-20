@@ -70,6 +70,7 @@ EXT: Want to see some sites from past years? Here are a few (more to follow):
 ## 1b. If time allows, we can discuss! (5-8 min) <!-- Aim to be done by 2:50... or 3:00 latest! -->
 [Click here to download answer key](../uploads/lesson-18--web--answer-key.docx)
 
+<!--
 Organizing files:
 1. F: filenames *are* case-sensitive
 2. F: it looks ugly with %20
