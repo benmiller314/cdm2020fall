@@ -253,7 +253,7 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 </dd>
 
 <dt>LinkedIn learning tutorials</dt>
-<dd><p>As with GIMP and Audacity, there are plenty of tutorials in the LinkedIn Learning library that you have access to through my.pitt.edu. If, for example, you're interested in embedding audio or video media on your website, you might want to try the <a href="https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-web-audio-and-video%3Ftrk%3Dshare_ent_url&account=2252458">Learning Web Audio and Video</a> tutorial by Joseph Labrecque, which covers the essential options, including native HTML5 <code><audio/></code> and <code><video/></code> elements.</p>
+<dd><p>As with GIMP and Audacity, there are plenty of tutorials in the LinkedIn Learning library that you have access to through my.pitt.edu. If, for example, you're interested in embedding audio or video media on your website, you might want to try the <a href="https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-web-audio-and-video%3Ftrk%3Dshare_ent_url&account=2252458">Learning Web Audio and Video</a> tutorial by Joseph Labrecque, which covers the essential options, including native HTML5 <code>&lt;audio&gt;</code> and <code>&lt;video&gt;</code> elements.</p>
 </dd>
 
 
