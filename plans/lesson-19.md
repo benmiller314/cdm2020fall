@@ -115,7 +115,7 @@ Just be sure to <strong>copy your changes to a file for safe keeping</strong>, o
 
 ## 3. Go forth!
 
-In the [shared google doc](http://bit.ly/cdm2020fall-notes), **set a goal for today**: what do you need to do to level up on HTML and CSS in the direction of your specific project? Note that a Website Preview is due Tuesday.
+In the [shared google doc](http://bit.ly/cdm2020fall-notes#heading=h.nz3fynee6u92), **set a goal for today**: what do you need to do to level up on HTML and CSS in the direction of your specific project? Note that a Website Preview is due Tuesday.
 
 <div class="alert alert-info">
 If you haven't yet, please do expand and read my notes above. Also remember that you have many <a href="{{site.github_url}}/resources#web-design">Resources</a> on our website; for today, might I especially point out the <strong>design advantages of <a href="https://loremipsum.io">placeholder text</a> and/or <a href="https://loremipsum.io/21-of-the-best-placeholder-image-generators/">images</a></strong>?
