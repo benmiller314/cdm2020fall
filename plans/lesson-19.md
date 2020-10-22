@@ -123,6 +123,11 @@ If you haven't yet, please do expand and read my notes above. Also remember that
 
 EXT: Want more practice with CSS selectors? Try [flukeout.github.io](https://flukeout.github.io), a lovely little learning game.
 
+<div class="alert alert-warning">
+As usual, to get credit for asynchronous participation, please add your intentions and exit notes to the google doc when you start and stop working – and aim to work for at least two 20-minute pomodoros. (In class, we had about 50 minutes of straight-up studio time.)
+</div>
+
+
 <div class="alert alert-white">
 <strong>Did you know?</strong> If you're building a website in GitHub (and you are), you can publish it for free, using GitHub Pages! You don't need to create a new repository: Just <ol>
 <li>have a folder in your repo called "docs," [DONE]</li>
