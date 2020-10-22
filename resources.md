@@ -252,6 +252,11 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <p>Author Rafaela Ferro also does a great job of keeping the tone light by focusing on cute pictures of dogs. I also recommend her follow-up tutorial on <a href="https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f">using CSS Grid to create responsive layout</a> – which is, as she argues, far easier to do with Grid than with Flexbox (let alone Float).</p>
 </dd>
 
+<dt>LinkedIn learning tutorials</dt>
+<dd><p>As with GIMP and Audacity, there are plenty of tutorials in the LinkedIn Learning library that you have access to through my.pitt.edu. If, for example, you're interested in embedding audio or video media on your website, you might want to try the <a href="https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-web-audio-and-video%3Ftrk%3Dshare_ent_url&account=2252458">Learning Web Audio and Video</a> tutorial by Joseph Labrecque, which covers the essential options, including native HTML5 <code><audio/></audio> and <code><video/></code> elements.</p>
+</dd>
+
+
 <dt><a href="http://htmlreference.io/">htmlreference.io</a></dt>
 <dt><a href="http://cssreference.io/">cssreference.io</a></dt>
 <dd>There are a *lot* of html elements and CSS attributes that you'll find in your travels through the web. As with book literacy, you'll pick up the vocabulary mostly by encountering them in the world, on websites, not by starting with a dictionary. But when you do find them, you'll want a good dictionary where you can look them up and learn more about how they're supposed to work. These are pretty well organized, and (unlike some of the "official" documentation) usually give you visual examples of what the elements and rules mean and do. And when you do want that official documentation, you can find it by clicking on the "MDN" link at the top right of any definition page.</dd>
