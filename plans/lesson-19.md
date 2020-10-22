@@ -45,7 +45,7 @@
 
 <details>
 <summary>Take advantage of parent selectors and classes to limit the scope of CSS rules</summary>
-<p>If you're worried they'll carry too broadly, affecting inner page <code>&lt;h2&gt;</code>'s when you only meant it to apply on the front page, just limit the scope of the css rule. The following code will only apply to <code>&lt;h2&gt;</code>'s inside a <code>&lt;body class="front"&gt;</code>:
+<p>If you're worried a rule will spread too broadly, e.g. affecting inner page <code>&lt;h2&gt;</code>'s when you only meant it to apply on the front page, just limit the scope of the css rule by giving it a parent container – or a class. For example, the following code will only apply to <code>&lt;h2&gt;</code>'s inside a <code>&lt;body class="front"&gt;</code>:
 <pre><code class="css">
 body.front h2 {
   font-size: 18px;
