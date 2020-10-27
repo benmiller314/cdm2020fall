@@ -49,7 +49,7 @@ The first thing to do, then, is **introduce yourselves to your groupmates,** and
 
 ## Set goals!
 
-What do you need to do to level up on HTML and CSS in the direction of your specific project? As usual, please write down some goals in the [google doc](http://bit.ly/cdm2020fall#heading=h.7zb9mzjb0aox), so I can get an overview of where everyone's at – and so you have a marker to come back to for your reflections, later.
+What do you need to do to level up on HTML and CSS in the direction of your specific project? As usual, please write down some goals in the [google doc](http://bit.ly/cdm2020fall-notes#heading=h.7zb9mzjb0aox), so I can get an overview of where everyone's at – and so you have a marker to come back to for your reflections, later.
 
 Also for my sake and yours, please **be as specific as possible:** e.g. rather than “working on my site,” you might say, “choosing images for photo gallery” or “building consistent grid for layout with top menu and areas for paragraphs with a featured image” etc etc.
 
