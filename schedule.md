@@ -218,7 +218,7 @@ For next time:
 * As a reminder, you should **do the exercises in the tutorials** and push them to your repository – possibly in a subfolder.
 * A _preview_ isn't due for another week, but you're welcome to begin assembling your website before then if you have ideas. That'll just give you more time to debug and refine!
 
-<h3><a href="{{site.github_url}}/plans/lesson-20">Lesson 20, Tuesday 10/27</a> – Web Unit Studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-20">Lesson 20, Tuesday 10/27</a> – Web Unit Studio / Layout Q & A</h3>
 <!--
 Self-paced tutorialing
 Offline sketching
@@ -227,8 +227,8 @@ For next time:
 
 * **Compose and push** a website preview: a beginning of your own site.
   - A full draft of your website project is due in one week, when we'll have workshop.
-* **Finish** the [tutorial](https://internetingishard.com/html-and-css/), if you haven't yet – or revisit the sections that are still confusing. I especially encourage you to look at sections 12 (Semantic HTML) and 14 (Web Typography), and if you're having trouble with positioning even after working through Flexbox (section 8) and Grid (on Medium), try section 9 (Advanced Positioning).
-  - Email me with any questions, noting that I can help fastest if you include a screenshot and a link.
+* **Finish** the [tutorial](https://internetingishard.com/html-and-css/), if you haven't yet – or revisit the sections that are still confusing. I especially encourage you to look at sections 12 ([Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/)) and 14 ([Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)), and if you're having trouble with positioning even after working through Flexbox (section 8) and Grid (on Medium), try section 9 ([Advanced Positioning](https://www.internetingishard.com/html-and-css/advanced-positioning/)).
+  - Email me with any questions, noting that I can help fastest if you include a screenshot and a link. Better yet, [create a New Issue](https://github.com/benmiller314/cdm2020fall/issues/new/choose)! Then my answer to you can help others, too.
 
 
 <h3><a href="{{site.github_url}}/plans/lesson-21">Lesson 21, Thursday 10/29</a> – Criteria and Stretch Goals</h3>
@@ -238,9 +238,13 @@ For next time:
 <!-- * **Write** (or respond to) a pitch toward the collaborative project
 -->
 * **Compose and push** a full draft of your website project no later than Tuesday morning (let's say 10am Eastern).
-* To test that it's fully on GitHub, **clone it again to a new location** on your computer: if you can successfully open your pages in a local browser from that second location, you should be good to get feedback even from an asynchronous workshop. <em>(And you should then also be good to **delete that extra copy**, before you get confused as to where you're pushing from.)</em>
+* When it's ready, to test that it's fully on GitHub, **clone it again to a new location** on your computer: if you can successfully open your pages in a local browser from that second location, you should be good to get feedback even from an asynchronous workshop. <em>(And you should then also be good to **delete that extra copy**, before you get confused as to where you're pushing from.)</em>
 
-<h3><a href="{{site.github_url}}/plans/lesson-22">Lesson 22, Tuesday 11/3</a> – Web Unit Workshop</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-22">Lesson 22, Tuesday 11/3</a> – Web Unit Workshop </h3>
+
+<div class="alert alert-danger">
+UPDATE: To give everyone the flexibility to go to the polls, this will be a <strong>fully asynchronous</strong> workshop. See lesson plan for details.
+</div>
 
 For next time:
 * **Write** one more blog post about what you'd like to do in our final / integrative unit. If you're interested in finding people to collaborate with, this is a good time to make a pitch.
