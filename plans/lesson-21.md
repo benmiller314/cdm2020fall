@@ -7,8 +7,8 @@
 * Work on your website portfolios, and push a _[preview](https://github.com/benmiller314/website-portfolio-2020fall#deadlines-and-products)_ to GitHub: project folder (probably named 'docs'), work-in-progress screenshot from the browser, optional screenshot of your editor setup, and text description, plus updated list of assets/credits.
 
 **Plan for the Day**:
-1. Reflective writing (5 min)
-2. Refresher on visual arguments we've liked (5 min)
+1. Reflective writing on current projects (5 min)
+2. Reflective writing on websites we've liked (5 min)
 3. Gathering criteria (45 min)
 4. Sharing insights (10 min)
 5. EXT: Studio
@@ -66,10 +66,10 @@ NB: If you're joining us asynchronously, use this as studio time: please do add 
 </div>
 
 ## For next time:
-<div class="alert alert-warning">
-<p>We will not meet on Zoom on Tuesday, to allow maximal flexibility for any in-person voting or other election-related activities you have planned. Instead, we'll have a <strong>fully asynchronous workshop</strong>. </p>
+<div class="alert alert-danger">
+<p>We will not meet on Zoom on Tuesday, to allow maximal flexibility for any in-person voting or other election-related activities you have planned. Instead, we'll have a <strong>fully asynchronous workshop</strong>. Aim to provide feedback before Thursday's class, when we'll resume the normal schedule.</p>
 
-<p>To double-check that your partners will see the files as you intended, please download a .zip from your GitHub.com repository to a second location on your computer. Does your site open in a browser? Does it look right, or did you forget to push the latest changes?</p>
+<p>To double-check that your partners will see the files as you intended, please <strong>download a .zip from your GitHub.com repository to a second location on your computer</strong>. Does your site open in a browser? Does it look right, or did you forget to push the latest changes?</p>
 </div>
 
 * Work to push a **full draft to GitHub by 10:00am Eastern Time on Tuesday, Nov 3**: a solid attempt at a complete website, ideally meeting baseline criteria. Rough edges are still welcome.
