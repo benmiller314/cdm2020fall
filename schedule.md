@@ -253,8 +253,8 @@ For next time:
 * If you're workshopping asynchronously, be sure to finish leaving your comments by Thursday, so your partners have time to revise.
 
 
-* **By 11:59pm on Tuesday,** complete – at least for now – your website project.
-* **By Thursday** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
+* **By 11:59pm next Sunday (11/8),** complete – at least for now – your website project.
+* **By next Tuesday's class,** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
 
 <h3><a href="{{site.github_url}}/plans/lesson-23">Lesson 23, Thursday 11/5</a> – Studio</h3>
 
