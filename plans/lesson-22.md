@@ -30,7 +30,7 @@ As usual, you'll want to click through to the next three people in your row, wra
 [Maia](https://github.com/Maials268/website-portfolio-2020fall)
 
 
-Go ahead and click through to your partners' repos, and **download the zip file** by clicking on the green <img class=".d-inline-block" src="../assets/img/github-code-btn.png" alt="code" /> button. It'll be a faster download than cloning, with just the latest snapshot. (But if you want to see revision history, you'll have to do it on the web.)
+Go ahead and click through to your partners' repos, and **download the zip file** by clicking on the green <img class="d-inline-block" src="../assets/img/github-code-btn.png" alt="code" /> button. It'll be a faster download than cloning, with just the latest snapshot. (But if you want to see revision history, you'll have to do it on the web.)
 
 <details><summary>Show me</summary>
 <img src="../assets/img/github--clone-code.png" alt="Code button follows 'go to file' and 'add file' options. 'Download zip' is the last option in the submenu the button brings up." />
@@ -51,7 +51,7 @@ It takes practice! Please do try: it helps make your comments more concrete and 
 
 A good test is whether you can tell, just from your comment, what you were reacting to.
 
-<div class="alert alert-info">You may want to time yourself: in class we wouldn't have more than 15-20 minutes for each of three partners.
+<div class="alert alert-warning">You may want to time yourself: in class we wouldn't have more than 15-20 minutes for each of three partners.
 </div>
 
 ### 2a. Describe what you see
@@ -123,10 +123,13 @@ Utilize a web framework to build your website (angular, react, etc. but also boo
 * If there was a mismatch between the hierarchies in the presentation and the content, which would you suggest changing, given what you think the intention was? (And here's where revision histories may be helpful, if you have time.)
 
 ### 2d. Post comments on the latest commit
-Finally, make sure you **post** all these comments – in language you'd be comfortable sharing publicly – on the latest commit on the project's GitHub website. Here's how and where to leave comments on GitHub: Just
-    * click through to the history of commits (the clock page);
-    * click on the _commit hash_, the set of random-seeming numbers and letters almost at the end of the top row (i.e., for the most recent commit); and
-    * scroll to the bottom of the _diff view_ that appears. You'll see a comment box there: <figure><img src="../assets/img/github--comment-on-commit.gif" alt="screencast of the three steps just described"/></figure>
+Finally, make sure you **post** all these comments – in language you'd be comfortable sharing publicly – on the latest commit on the project's GitHub website.
+
+Here's how and where to leave comments on GitHub: Just...
+
+* click through to the history of commits (the clock page);
+* click on the _commit hash_, the set of random-seeming numbers and letters almost at the end of the top row (i.e., for the most recent commit); and
+* scroll to the bottom of the _diff view_ that appears. You'll see a comment box there: <figure><img src="../assets/img/github--comment-on-commit.gif" alt="screencast of the three steps just described"/></figure>
 
 
 ## 3. Repeat (and reflect)
