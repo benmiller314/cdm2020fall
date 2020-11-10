@@ -210,4 +210,6 @@ EXT: If you have time now, you can get started on implementing your plan. We'll 
     - proposed roles for your team members, if you have a team of more than one
     - <sup>*</sup> NB: If you're updating an existing project, I recommend doing this in a [new branch](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches) of the old repository, instead.
   * Post your project proposal, with a link to the repository, on the [Issue Queue]({{site.github.issues_url}}).
-  * By the end of next class, you should decide (together, if working on a team) what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. When they're ready, **push these updated goals to your repo.**
+  * _By the end of next class_, you should decide (together, if working on a team) what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. When they're ready, push these updated goals to your repo.
+
+* * NB: **If you haven't yet finished your website project, start there.** You could even save the Ford reading for the weekend, in that case. The project proposal would be great to have in place by next class, so you can make the most of studio time, but I can be flexible through the end of this week – especially if you're still waist-deep in the website and need a minute to finish up and get your bearings again.
