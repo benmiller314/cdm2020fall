@@ -167,6 +167,7 @@ In this section:
 - [Visual](#visual)
 - [Web Design](#web-design)
 - [Interactive Narrative](#twine--interactive-narrative)
+- [Logo Design](#logo-design)
 
 
 ### Audio
@@ -311,7 +312,10 @@ If you're having trouble uploading large files to GitHub or through email, you c
 <dd>This has some great advice on how to organize your files so you can reliably include images and music, without needing to summon them from across the web (where someone else might take them down). But <em>be warned</em>: a lot of the example scripts here use SugarCube, an alternative syntax to the default Harlowe. Use the tutorial to get a sense of what's possible, but then look up the equivalent syntax in the Harlowe documentation wiki, above.</dd>
 </dl>
 
+## Logo Design
 
+Some people have expressed interest in designing logos; this tutorial series seems like it might be useful:
+* [Inkscape Logo Design Tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8DUEHPGKj3fgQUSwIYyU7dk), from [LogosByNick](https://www.youtube.com/c/LogosByNick)
 
 
 
