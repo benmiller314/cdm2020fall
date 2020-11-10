@@ -3,7 +3,7 @@
 
 <div class="footnote-block">with a hat tip to <a href="https://en.wikipedia.org/wiki/Introduction_to_Finality">Community</a></div>
 
-**Work to have done**: Submit final-for-now website, with source files, and [reflection]({{site.github.issues_url}})
+**Work to have done**: Submit final-for-now website, with source files, and [reflection]({{site.github.issues_url}}) (though I know some people are planning for a Thursday submission, and that's also okay)
 
 **Plan for the Day**:
 
@@ -25,9 +25,10 @@ One goal I have, overall, is to help you feel more empowered to learn new digita
       <li>Would you use the same metaphor for the other kinds of digital composing you've used this semester? If not, what other metaphor would you propose?</li>
       <li><em>Within the metaphors</em> you've come up with, what strategies would help you continue improving? What strategies might that suggest in real life, i.e. outside of the metaphor?</li>
    </ol>
+</div>
 
 Take 3-5 minutes to think in writing. I won't collect this, but I will suggest that you return to these when writing your end-of-semester reflection, and I will ask for some volunteers to share in a few minutes.
-</div>
+
 
 EXT: What personal skillsets do you feel like you now possess, that you might offer to a team of digital media composers?
 
