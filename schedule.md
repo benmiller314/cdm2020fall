@@ -286,10 +286,10 @@ For next time:
   * Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans. What things have you done this semester?
   * **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you.
 * *Preparing one final project or revision:*
-  * Make a new repository (GH, Box, or Drive) containing a task list for your project – along with proposed roles for your team members, if you have a team of more than one.
-    - If you're updating an existing project, do this in a new branch of the old repository, instead.
-    * Post a link to this repository on the [Issue Queue]({{site.github.issues_url}}).
-    * Decide (together, if applicable) what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. Push these updated goals to the repo.
+  * Make a new repository<sup>*</sup> (GH, Box, or Drive) containing a task list for your project – along with proposed roles for your team members, if you have a team of more than one.
+    - <sup>*</sup> If you're updating an existing project, I recommend doing this in a [new branch](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-branches) of the old repository, instead.
+    - Post a link to this repository on the [Issue Queue]({{site.github.issues_url}}).
+    - Decide (together, if applicable) what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. Push these updated goals to the repo.
 
 <h3><a href="{{site.github_url}}/plans/lesson-25">Lesson 25, Thursday 11/12</a> – Consolidation Unit Studio</h3>
 
