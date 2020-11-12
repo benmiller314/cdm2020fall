@@ -98,4 +98,5 @@ I'll create breakout rooms for the groups, and I'll float around once I'm no lon
 * As preparation for the final portfolio, please **respond** to an updated version of the [Tech Comfort Survey](http://bit.ly/cdm-tech-survey) from the start of the semester; both forms should send (have sent) you an email with your responses, so you can compare then and now.
   - In addition, this version of the form will ask you to officially tell me whether and how I can use your work as an example in future semesters.
   - If you'd rather fill out that part after all revisions are done, the form is set to allow you to edit your response.
+* Have you considered reading back through your studio goals in [the google doc](http://bit.ly/cdm2020fall-notes)?
 * Continue with whatever work you set out for yourself to consolidate, integrate, and ideally deepen your learning this semester.
