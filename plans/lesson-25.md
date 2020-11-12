@@ -87,7 +87,7 @@ So let's open this again, as we did last time, with a chance to announce or recr
 When you're ready to move on, I'll get out of your way! As is our custom, please write down your studio goals at the beginning of your work-session, and come back at the end with an update and a target for the weekend.
 
 <div class="alert alert-warning">
-p.s. If your plans for the unit haven't posted to the [consolidation unit proposal queue](https://github.com/benmiller314/cdm2020fall/issues/15) (a groupmate's post is fine if you're included), please aim to do so by the end of today. <!-- and if you're still finishing the website unit, it's okay for baseline to let that be your unit goal. -->
+p.s. If your plans for the unit haven't posted to the <a href="https://github.com/benmiller314/cdm2020fall/issues/15">consolidation unit proposal queue</a> (a groupmate's post is fine if you're included), please aim to do so by the end of today. <!-- and if you're still finishing the website unit, it's okay for baseline to let that be your unit goal. -->
 </div>
 
 I'll create breakout rooms for the groups, and I'll float around once I'm no longer helping folks in the main room. Call me if you need me!
