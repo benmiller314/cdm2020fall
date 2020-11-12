@@ -291,14 +291,14 @@ For next time:
     - Post a link to this repository on the [Issue Queue]({{site.github.issues_url}}).
     - Decide (together, if applicable) what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. Push these updated goals to the repo.
 
-<h3><a href="{{site.github_url}}/plans/lesson-25">Lesson 25, Thursday 11/12</a> – Consolidation Unit Studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-25">Lesson 25, Thursday 11/12</a> – Intro to Final Portfolio, Consolidation Unit Studio</h3>
 
 For next time:
 * **Push** a project preview (i.e. get something started) to your repository.
 * Continue updating and following your work plan.
 * **Document your progress** as you go! Screenshot, save, commit (or otherwise log changes), push.
 
-<h3><a href="{{site.github_url}}/plans/lesson-26">Lesson 26, Tuesday 11/17</a> – Consolidation Unit Criteria, Intro to Final Portfolio (But Mostly Studio)</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-26">Lesson 26, Tuesday 11/17</a> – Consolidation Unit Criteria (But Mostly Studio)</h3>
 
 For next time:
 * Set yourself some deadlines: what are you trying to finish by the last class (in two days!)? Will you continue beyond that for Sunday, knowing the final portfolio is due soon?
@@ -312,4 +312,4 @@ For next time:
 
 For next time:
 * Finish consolidation project by Sunday, if you haven't yet
-* Work to complete your final portfolio (due in our final exam slot, t.b.d.)
+* Work to complete your final portfolio (due in our final exam slot, which we now know is Monday, November 30th – the first Monday after Thanksgiving – at 2pm)

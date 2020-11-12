@@ -193,6 +193,14 @@ ul.spaced > li, ol.spaced > li {
 	  margin-bottom: 1em;
 }
 
+ol.lalpha {
+	list-style-type: lower-alpha;
+}
+
+ol.ualpha {
+	list-style-type: upper-alpha;
+}
+
 
 /* Create side-by-side columns */
 .flex-container {
