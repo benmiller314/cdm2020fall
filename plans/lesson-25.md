@@ -13,12 +13,16 @@
 
 As we have for each individual unit, for the final portfolio I’m asking you to write reflectively about the course and your work in it, crystalizing what you’ve learned – and how you will go on learning – about composing digital media.
 
-The final portfolio itself will consist of a single post on the [issue queue]({{site.github.issues_url}}) (thread coming soon), containing:
+<div class="alert alert-white">
+The final portfolio itself will consist of a single post on the <a href="{{site.github.issues_url}}">issue queue</a> (thread coming soon), containing:
 
-*	a **prose reflection** of at least 800-1200 words (1200-1800 recommended), reflecting on the course and framing the portfolio’s contents in terms of your learning and goals;
-*	**representative thumbnails, hyperlinked to final rendered versions** of your four unit projects, i.e. Soundscape Narrative (.mp3), Visual Argument (.png), Website (live url or index.html), and Consolidation (tbd);
-*	**links to your repositories** (on either GitHub or Box) for each of those pieces; and
-4.	**a thumbnail image of at least one specific prior draft, hyperlinked to that draft's commit in the revision history**, allowing you to talk about your revision skills.
+<ul>
+  <li>a <strong>prose reflection</strong> of at least 800-1200 words (1200-1800 recommended), reflecting on the course and framing the portfolio’s contents in terms of your learning and goals;</li>
+  <li><strong>representative thumbnails, hyperlinked to final rendered versions</strong> of your four unit projects, i.e. Soundscape Narrative (.mp3), Visual Argument (.png), Website (live url or index.html), and Consolidation (tbd);</li>
+  <li><strong>links to your repositories</strong> (on either GitHub or Box) for each of those pieces; and</li>
+  <li><strong>a thumbnail image of at least one specific prior draft, hyperlinked to that draft's commit in the revision history</strong>, allowing you to talk about your revision skills.</li>
+</ul>
+</div>
 
 As with previous reflections, I encourage you to include these screenshots and thumbnails wherever they make the most sense, rather than feeling like they need to be segregated from the rest of your thoughts.
 
