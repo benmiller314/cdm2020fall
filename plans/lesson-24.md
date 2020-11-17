@@ -36,6 +36,7 @@ EXT: What personal skillsets do you feel like you now possess, that you might of
 ## 2. Consolidation Unit Goals (5-10 min)
 
 As I said in the [schedule](../schedule),
+
 > In this final unit I’ll ask you to build on what you’ve already made: **a revision, an extension, or a combination,** of the modes and media you used in earlier units.
 
 
