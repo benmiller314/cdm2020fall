@@ -44,5 +44,13 @@ But beyond that, I always like to have a chance to celebrate together and share 
 
 Let's end the class with a quick straw poll [in the google doc](http://bit.ly/cdm2020fall-notes#heading=h.wspdg9q6hl32): write down the letter corresponding to what you would prefer to do:
 
-    W - work time (studio)
-    S - share the awesomeness
+W - work time (studio)
+S - share the awesomeness
+
+
+## For next time
+
+* Set yourself some deadlines: what are you trying to finish by the last class?   
+  - Will you continue beyond that for Sunday, knowing the final portfolio is due soon (on December )?
+* Document your progress as you go! Screenshot, save, commit (or otherwise log changes), push.
+* Pending the results of the straw poll above, choose something you're proud of, something you want to include in your portfolio, to share with the rest of the class.
