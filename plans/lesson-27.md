@@ -31,7 +31,7 @@ Remember that these evaluations of teaching serve multiple purposes, and go to m
 
 So the OMETs are pretty important!
 
-<div class="alert alert-white">
+<div class="alert alert-success">
 If you haven't yet filled out your survey, please do so now. You should have a link to the survey on Canvas, or in your Pitt email</div>
 
 EXT 1: Similarly, I know some of you may already have filled out the end-of-semester version of the <a href="http://bit.ly/cdm-tech-survey">Tech Comfort Survey</a>, but if you haven't, I hope you'll consider doing so now.
