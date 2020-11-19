@@ -254,6 +254,21 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <p>Author Rafaela Ferro also does a great job of keeping the tone light by focusing on cute pictures of dogs. I also recommend her follow-up tutorial on <a href="https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f">using CSS Grid to create responsive layout</a> – which is, as she argues, far easier to do with Grid than with Flexbox (let alone Float).</p>
 </dd>
 
+<dt><a href="https://css-tricks.com/">CSS Tricks</a></dt>
+<dd><p>Often, when I'm searching the web for advice, this site will come up in the top 5; and when it doesn't, adding "css-tricks" to my search terms often gets me another valuable perspective on the issue. There are way more excellent pages than I could really put here – just about one for every design challenge you want to try to solve using CSS alone (plus a few that call for JavaScript). </p>
+
+<p>Here are a few that I've found especially helpful or interesting:
+<ul>
+<li><a href="https://css-tricks.com/hash-tag-links-padding/">Hashtag links that don't headbutt the browser window</a></li>
+<li><a href="https://css-tricks.com/how-to-make-a-css-only-carousel/">How to make a CSS-only carousel</a></li>
+<li><a href="https://css-tricks.com/why-ems/">Why ems?</a></li>
+<li><a href="https://css-tricks.com/the-power-of-rgba/">The power of rgba()</a></li>
+<li><a href="https://css-tricks.com/theming-with-variables-globals-and-locals/">Theming with variables</a></li>
+<li><a href="https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/">CSS variables + calc() + rgb(): enforcing high-contrast colors</a></li>
+</ul>
+</p>
+</dd>
+
 <dt>LinkedIn learning tutorials</dt>
 <dd><p>As with GIMP and Audacity, there are plenty of tutorials in the LinkedIn Learning library that you have access to through my.pitt.edu. If, for example, you're interested in embedding audio or video media on your website, you might want to try the <a href="https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-web-audio-and-video%3Ftrk%3Dshare_ent_url&account=2252458">Learning Web Audio and Video</a> tutorial by Joseph Labrecque, which covers the essential options, including native HTML5 <code>&lt;audio&gt;</code> and <code>&lt;video&gt;</code> elements.</p>
 </dd>
