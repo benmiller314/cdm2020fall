@@ -269,6 +269,14 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 </p>
 </dd>
 
+<dt><a href="https://autoprefixer.github.io/">CSS Auto-Prefixer</a><dt>
+<dd><p>A dirty little secret of CSS that I sometimes try to pretend doesn't exist: different browsers implement CSS rules in different ways. Most of the time, the differences are minor, but every now and then, they're so out of sync that you might as well be writing a different styling rule. And so a convention has arisen of browser prefixes to automatically adjust for the shifts that occur among Chrome, Safari, Firefox, and Microsoft browsers like Edge and IE. I tend to gloss over them in class because (a) they're annoying, (b) they clutter the code, and (c) I just sort of like to put out into the universe that we should be adopting universal web standards; and most of the time, that's more or less okay. But not always.</p>
+
+<p>Luckily, there are post-processors that will take standard-issue CSS and add the browser prefixes where you need them. If you go to <a href="https://autoprefixer.github.io">autoprefixer.github.io/</a>, you should be able to just paste in your stylesheet on the left, copy the output from the right, and save it as your new stylesheet – and everything should just work fine from that point on.</p>
+
+<p>Of course, this is 100 times easier if you have all your CSS in the stylesheet, rather than in the HTML! But that's what I (and the internetingishard tutorial) have been encouraging all along, right? </p>
+</dd>
+
 <dt>LinkedIn learning tutorials</dt>
 <dd><p>As with GIMP and Audacity, there are plenty of tutorials in the LinkedIn Learning library that you have access to through my.pitt.edu. If, for example, you're interested in embedding audio or video media on your website, you might want to try the <a href="https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-web-audio-and-video%3Ftrk%3Dshare_ent_url&account=2252458">Learning Web Audio and Video</a> tutorial by Joseph Labrecque, which covers the essential options, including native HTML5 <code>&lt;audio&gt;</code> and <code>&lt;video&gt;</code> elements.</p>
 </dd>
