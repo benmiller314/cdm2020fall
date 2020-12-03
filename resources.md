@@ -49,7 +49,7 @@ Table of contents:
 <dd>If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and the Office of Disability Resources and Services, 140 William Pitt Union, 412-648-7890 / 412-624-3346 (Fax), as early as possible in the term. Disability Resources and Services will verify your disability and determine reasonable accommodations for this course.</dd>
 
 <dt><a href="http://www.studentaffairs.pitt.edu/cc/">Counseling Services</a></dt>
-<dd>Pitt also offers free counseling for students who are experiencing personal or emotional difficulties. The Counseling Center, located on the 2nd Floor Nordenberg Hall, offers Psychological Services and Sexual Assault Services (412-648-7930) (8:30 am-5:00 pm, Monday-Friday) or (412-648-7856) (after 5 pm, Monday-Friday or on weekends).</dd>  
+<dd>Pitt also offers free counseling for students who are experiencing personal or emotional difficulties. The Counseling Center, located on the 2nd Floor Nordenberg Hall, offers Psychological Services and Sexual Assault Services (412-648-7930) (8:30 am-5:00 pm, Monday-Friday) or (412-648-7856) (after 5 pm, Monday-Friday or on weekends).</dd>
 
 </dl>
 
@@ -306,8 +306,11 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <p>I'm still in the market for good tutorials on working with Atom, but <a href="https://www.youtube.com/playlist?list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_">this one from Level Up</a> looks pretty decent; essential episodes include <a href="https://www.youtube.com/watch?v=ZnzLPIhMJnw&list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_&index=4">#3 The Atom Interface with Tips and Tricks</a> and <a href="https://www.youtube.com/watch?v=IgSW1umKrVs&list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_&index=7">#6 Project Management In Atom</a>.</p>
 </dd>
 
-<!-- Add section on text editors? i.e atom.io, brackets.io, etc?-->
 </dl>
+
+<!-- Add section on text editors? i.e atom.io, brackets.io, etc?-->
+
+
 
 ## File Compression
 
