@@ -183,14 +183,16 @@ For next time:
 
 <h3><a href="{{site.github_url}}/plans/lesson-17">Lesson 17, Thursday 10/15</a> – Intro to Markup and Web Design</h3>
 <!--
-See lesson outline in old-plans/2019fall/lesson-17.md.
+See also lesson outline in old-plans/2019fall/lesson-17.md.
 It starts with [CSS Zen Garden](http://www.csszengarden.com/) as seen through the lens of visual emphasis, only later revealing that it's exactly the same content underneath.
+
 Ben HW: record and post demo of Developer tools in Chrome / Firefox
 -->
 
 For next time:
 
-* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you can – but **at least parts 1-4** (from "Introduction" through "Hello, CSS")
+* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you can – but **at least parts 1-4** (from "Introduction" through "Hello, CSS") <!-- TO ADD: SKIP THE FLOATS CHAPTER -->
+<!-- TO ADD after 2020fall: use the lessons to build prelim pages of your own, swapping in their own content for the tutorial's: about page, an image or two, a linked credits page. Maybe just write this into lesson 18, but warn them to have materials on-hand. -->
 * **Show your work** by pushing your tutorial code to a repository
 * *Optionally* bring headphones for sonic isolation during studio time
 
@@ -198,8 +200,9 @@ For next time:
 <!--
 Generative loop writing
 Offline sketching
-Self-paced tutorialing
-Ben HW: record and post GH Pages demo, if you don't yet have it giffed
+NEW AFTER 2020fall: Troubleshoot with Ben if your content doesn't work like the tutorial's.
+EXT: Self-paced tutorialing
+Ben HW: Record and post screencast on <nav><ul><li><a> and resizing with padding.
 -->
 
 * **Do** more of the [HTML and CSS tutorial](https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
@@ -209,6 +212,7 @@ Ben HW: record and post GH Pages demo, if you don't yet have it giffed
  <h3><a href="{{site.github_url}}/plans/lesson-19">Lesson 19, Thursday 10/22</a> – Web Unit Studio / Deployment</h3>
 
 <!--
+NEW AFTER 2020fall: make sure everyone knows how to make a navigation menu using <nav><ul><li><a> ... and to resize the <a> directly using padding. Point out that this is a direct application of the Box Model.
 Make sure everyone has successfully activated GitHub Pages before they leave. Note that the instructions at  https://pages.github.com/ are confusing, because we *don't want to create a whole new repo.* -->
 
 For next time:

@@ -196,6 +196,7 @@ If you find yourself breezing through the Interneting is Hard tutorial, you can 
 ## Homework for Next Time
 
 * **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as time and interest allow – but *at least parts 1-4* (from "Introduction" through "Hello, CSS")
+<!-- FOR NEXT TIME: warn people to skip floats! Modern techniques like grid and flex are easier to get right. -->
 * **Show your work** by pushing your tutorial code to GitHub.
    - I've already created folders for parts 1-3 in the GH repo you just forked; clone it to your local computer, and you should be able to work in those folders and push.
    - But note that _you'll need to add your own folder_ for part 4, and thereafter.
