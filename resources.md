@@ -254,6 +254,12 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <p>Author Rafaela Ferro also does a great job of keeping the tone light by focusing on cute pictures of dogs. I also recommend her follow-up tutorial on <a href="https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f">using CSS Grid to create responsive layout</a> – which is, as she argues, far easier to do with Grid than with Flexbox (let alone Float).</p>
 </dd>
 
+<dt><a href="https://gridbyexample.com/learn/">Grid By Example</a></dt>
+<dd>
+<p>Want more grab-and-go skeletons of grid layouts? This resource, from Rachel Andrew, includes some videos and a lot of CodePens you can mess around with and then copy into Atom, so you don't have to start from an empty editor.
+</p>
+</dd>
+
 <dt><a href="https://css-tricks.com/">CSS Tricks</a></dt>
 <dd><p>Often, when I'm searching the web for advice, this site will come up in the top 5; and when it doesn't, adding "css-tricks" to my search terms often gets me another valuable perspective on the issue. There are way more excellent pages than I could really put here – just about one for every design challenge you want to try to solve using CSS alone (plus a few that call for JavaScript). </p>
 
@@ -307,6 +313,8 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 </dd>
 
 </dl>
+
+<!-- A way to embed working forms on a static GH Pages site? Need to verify: https://medium.com/@asjas/using-formspree-io-on-your-github-pages-a60c290d1ee -->
 
 <!-- Add section on text editors? i.e atom.io, brackets.io, etc?-->
 
