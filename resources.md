@@ -256,7 +256,7 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 
 <dt><a href="https://gridbyexample.com/learn/">Grid By Example</a></dt>
 <dd>
-<p>Want more grab-and-go skeletons of grid layouts? This resource, from Rachel Andrew, includes some videos and a lot of CodePens you can mess around with and then copy into Atom, so you don't have to start from an empty editor.
+<p>Want more grab-and-go skeletons of grid layouts? This resource, from Rachel Andrew, includes some nice, short videos and quite a lot of CodePens you can mess around with and then copy into Atom, so you don't have to start from an empty editor.
 </p>
 </dd>
 
